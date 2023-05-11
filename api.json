@@ -123,7 +123,6 @@
 	{"key":"YiSo","name":"网盘｜易搜","type":3,"api":"csp_YiSo","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"PanSou","name":"网盘｜盘搜","type":3,"api":"csp_PanSou","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"UpYun","name":"网盘｜云搜","type":3,"api":"csp_UpYun","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
-	{"key":"Zhaozy","name":"网盘｜找资源","type":3,"api":"csp_Zhaozy","ext":"http://127.0.0.1:9978/file/TVBox/token.txt$$$账号$$$密码"},
 	{"key":"mtv_pc_yinfans","name":"磁力｜音范丝","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XPath/音范丝.json"}],
 "parses":
 	[{"name":"解析聚合","type":3,"url":"Demo"},{"name":"Web聚合","type":3,"url":"Web"},
