@@ -123,6 +123,7 @@
 	{"key":"YiSo","name":"网盘｜易搜","type":3,"api":"csp_YiSo","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"PanSou","name":"网盘｜盘搜","type":3,"api":"csp_PanSou","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"UpYun","name":"网盘｜云搜","type":3,"api":"csp_UpYun","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+	{"key":"csp_XPathAli_tgss","name":"搜索｜土狗","type":3,"api":"csp_XPathAli","searchable":1,"filterable":0,"changeable":0,"ext":{"searchUrl":"https://www.tugousou.com/search?keyword={wd};post","scVodNode":"//div[contains(@class,'layui-container')]//div[contains(@class,'layui-row')]//div//p//a","scVodName":"/text()","scVodId":"/@href","scVodIdR":"","scVodImg":"/@null","scVodMark":""}},
 	{"key":"mtv_pc_yinfans","name":"磁力｜音范丝","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XPath/音范丝.json"}],
 "parses":
 	[{"name":"解析聚合","type":3,"url":"Demo"},{"name":"Web聚合","type":3,"url":"Web"},
