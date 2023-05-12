@@ -31,7 +31,7 @@
 	{"key":"drpy_js_六度TV","name":"六度TV","type":3,"api":"./JS/drpy.min.js","ext":"./JS/六度TV.js"},
 	{"key":"drpy_js_网飞TV","name":"网飞TV","type":3,"api":"./JS/drpy.min.js","ext":"./JS/网飞TV.js"},
 	{"key":"drpy_js_1080","name":"一零八零","type":3,"api":"./JS/drpy.min.js","ext":"./JS/1080.js"},
-	{"key":"drpy_js_91free","name":"九一免费","type":3,"api":"./JS/drpy.min.js","ext":"./JS/91free.js"},
+	{"key":"drpy_js_91Free","name":"九一免费","type":3,"api":"./JS/drpy.min.js","ext":"./JS/91Free.js"},
 	{"key":"drpy_js_HDmoli","name":"魔力高清","type":3,"api":"./JS/drpy.min.js","ext":"./JS/HDmoli.js"},
 	{"key":"drpy_js_CokeMV","name":"可乐影视","type":3,"api":"./JS/drpy.min.js","ext":"./JS/CokeMV.js"},
 	{"key":"drpy_js_米爱影视","name":"米爱影视","type":3,"api":"./JS/drpy.min.js","ext":"./JS/米爱影视.js"},
