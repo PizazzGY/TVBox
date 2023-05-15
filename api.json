@@ -124,7 +124,7 @@
 	{"key":"csp_XBPQ_去看动漫","name":"去看动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/去看动漫.json"},
 	{"key":"csp_XBPQ_动漫巴士","name":"动漫巴士","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/动漫巴士.json"},
 	{"key":"PanSearch","name":"网盘｜搜索","type":3,"api":"csp_PanSearch","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
-	{"key":"Dovx","name":"网盘｜阿里","type":3,"api":"csp_Dovx","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+	{"key":"Dovx","name":"网盘｜七夜","type":3,"api":"csp_Dovx","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"Paper","name":"网盘｜纸条","type":3,"api":"csp_Paper","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"YiSo","name":"网盘｜易搜","type":3,"api":"csp_YiSo","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"UpYun","name":"网盘｜云搜","type":3,"api":"csp_UpYun","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
