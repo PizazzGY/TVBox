@@ -3,7 +3,6 @@
 	[{"key":"豆瓣","name":"TVBox","type":3,"api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js","searchable":0,"quickSearch":0,"filterable":1},
 	{"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"csp_XBPQ_真不卡","name":"真不卡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/真不卡.json"},
-	{"key":"csp_XBPQ_零零七","name":"零零七","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/零零七.json"},
 	{"key":"csp_XBPQ_一三九","name":"一三九","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/一三九.json"},
 	{"key":"csp_XYQHiker_臭蛋蛋","name":"臭蛋蛋","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/臭蛋蛋.json"},
 	{"key":"csp_XYQHiker_野荷塘","name":"野荷塘","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/野荷塘.json"},
