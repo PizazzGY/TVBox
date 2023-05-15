@@ -85,7 +85,7 @@
 	{"key":"drpy_js_宅腐影视","name":"宅腐影视","type":3,"api":"./JS/drpy.min.js","ext":"./JS/宅腐影视.js"},
 	{"key":"drpy_js_看看电影","name":"看看电影","type":3,"api":"./JS/drpy.min.js","ext":"./JS/看看电影.js"},
 	{"key":"drpy_js_小狗影院","name":"小狗影院","type":3,"api":"./JS/drpy.min.js","ext":"./JS/小狗影院.js"},
-	{"key":"drpy_js_纽约影院","name":"纽约影院","type":3,"api":"./JS/drpy.min.js","ext":"./JS/纽约影院.js"},
+	{"key":"drpy_js_两个磁力","name":"两个磁力","type":3,"api":"./JS/drpy.min.js","ext":"./JS/两个磁力.js"},
 	{"key":"csp_XBPQ_花猫影视","name":"花猫影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/花猫影视.json"},
 	{"key":"csp_XBPQ_兰花影院","name":"兰花影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/兰花影院.json"},
 	{"key":"csp_XBPQ_人人影视","name":"人人影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/人人影视.json"},
