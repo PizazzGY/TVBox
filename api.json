@@ -116,7 +116,7 @@
 	{"key":"csp_XYQHiker_巨人影院","name":"‍巨人影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/巨人影院.json"},
 	{"key":"csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"csp_kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-	{"key":"csp_Bd","name":"哔嘀视频","type":3,"api":"csp_Bdys01","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"csp_Bd","name":"哔嘀视频","type":3,"api":"csp_Bdys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"csp_XBPQ_二三三","name":"二三三","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/二三三.json"},
 	{"key":"drpy_js_路漫漫","name":"路漫漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/路漫漫.js"},
 	{"key":"drpy_js_动漫岛","name":"动漫岛","type":3,"api":"./JS/drpy.min.js","ext":"./JS/动漫岛.js"},
