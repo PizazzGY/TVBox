@@ -1,4 +1,5 @@
 {"spider":"./spider.jar;md5;cecf3becd21fa139541846307a9eb1fb",
+ "wallpaper":"http://127.0.0.1:9978/file/TVBox/壁纸.jpg",
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js","searchable":0,"quickSearch":0,"filterable":1},
 	{"key":"三六零","name":"三六零","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
