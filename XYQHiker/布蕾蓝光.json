@@ -10,7 +10,7 @@
     "首页片单列表数组规则": ".module-item",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
-    "分类链接": "http://dy04.bulei.cc/index.php/vod/by/{by}/show/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类链接": "http://dy04.bulei.cc/index.php/vod/by/{by}/type/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类名称": "电影&电视剧&综艺&动漫&欧美剧&日韩剧&港台剧",
     "分类名称替换词": "1&2&3&4&5&21&22",
     "筛选数据": "ext",
