@@ -1,4 +1,4 @@
-{"spider":"./spider.jar;md5;7644c9fa48f262b884a352025e1c46f1",
+{"spider":"./spider.jar;md5;641d154ab3ece1c0b0b90cf075f33687",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js","searchable":0,"quickSearch":0,"filterable":1},
@@ -150,7 +150,7 @@
 	{"key":"奇米动漫","name":"奇米动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/奇米动漫.js"},
 	{"key":"维奇动漫","name":"维奇动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/维奇动漫.json"},
 	{"key":"动漫巴士","name":"动漫巴士","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/动漫巴士.json"},
-	{"key":"WoGG","name":"云盘｜玩偶","type":3,"api":"csp_WoGG","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+	{"key":"玩偶哥哥","name":"云盘｜玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩偶哥哥.json"},
 	{"key":"PanSearch","name":"云盘｜搜索","type":3,"api":"csp_PanSearch","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"Dovx","name":"云盘｜七夜","type":3,"api":"csp_Dovx","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"YiSo","name":"云盘｜易搜","type":3,"api":"csp_YiSo","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
