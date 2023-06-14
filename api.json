@@ -1,39 +1,39 @@
-{"spider":"./spider.jar;md5;302cd2a7cd0b0dc18636d207741a86ad",
-"wallpaper":"https://api.likepoems.com/img/bing",
+{"spider":"./spider.jar;md5;8be9f0865a6523c482e16885c6885f1d"，
+"wallpaper":"https://api.likepoems.com/img/bing"，
 "sites":
-	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js","searchable":0,"quickSearch":0,"filterable":1},
-	{"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-	{"key":"九九六","name":"九九六","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dytt996.com/api.php/app/"},
-	{"key":"北极狐","name":"北极狐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
-	{"key":"迷你库","name":"迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
-	{"key":"萌蛋蛋","name":"萌蛋蛋","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
-	{"key":"平头哥","name":"平头哥","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.pingtouge.top/ruifenglb_api.php/v1.vod"},
-	{"key":"新视觉","name":"新视觉","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/新视觉.json"},
-	{"key":"真不卡","name":"真不卡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/真不卡.json"},
-	{"key":"兔兔瓜","name":"兔兔瓜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/兔兔瓜.json"},
-	{"key":"视频库","name":"视频库","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/视频库.json"},
-	{"key":"独播库","name":"独播库","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/独播库.json"},
-	{"key":"臭蛋蛋","name":"臭蛋蛋","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/臭蛋蛋.json"},
-	{"key":"野荷塘","name":"野荷塘","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/野荷塘.json"},
-	{"key":"红领巾","name":"红领巾","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/红领巾.json"},
-	{"key":"素白白","name":"素白白","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/素白白.json"},
-	{"key":"我不卡","name":"我不卡","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/我不卡.json"},
-	{"key":"电影牛","name":"电影牛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛.json"},
-	{"key":"看看剧","name":"看看剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/看看剧.json"},
-	{"key":"五五五","name":"五五五","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/五五五.json"},
-	{"key":"一三九","name":"一三九","type":3,"api":"./JS/drpy.min.js","ext":"./JS/一三九.js"},
-	{"key":"影渣渣","name":"影渣渣","type":3,"api":"./JS/drpy.min.js","ext":"./JS/影渣渣.js"},
-	{"key":"柒之社","name":"柒之社","type":3,"api":"./JS/drpy.min.js","ext":"./JS/柒之社.js"},
-	{"key":"小猫咪","name":"小猫咪","type":3,"api":"./JS/drpy.min.js","ext":"./JS/小猫咪.js"},
-	{"key":"七小时","name":"七小时","type":3,"api":"./JS/drpy.min.js","ext":"./JS/七小时.js"},
-	{"key":"视中心","name":"视中心","type":3,"api":"./JS/drpy.min.js","ext":"./JS/视中心.js"},
-	{"key":"看看屋","name":"看看屋","type":3,"api":"./JS/drpy.min.js","ext":"./JS/看看屋.js"},
-	{"key":"达达龟","name":"达达龟","type":3,"api":"./JS/drpy.min.js","ext":"./JS/达达龟.js"},
-	{"key":"四个圈","name":"四个圈","type":3,"api":"./JS/drpy.min.js","ext":"./JS/四个圈.js"},
-	{"key":"看了么","name":"看了么","type":3,"api":"./JS/drpy.min.js","ext":"./JS/看了么.js"},
-	{"key":"零零七","name":"零零七","type":3,"api":"./JS/drpy.min.js","ext":"./JS/零零七.js"},
-	{"key":"小白菜","name":"小白菜","type":3,"api":"./JS/drpy.min.js","ext":"./JS/小白菜.js"},
-	{"key":"美剧网","name":"美剧网","type":3,"api":"./JS/drpy.min.js","ext":"./JS/美剧网.js"},
+	[{"key":"豆瓣"，"name":"豆瓣"，"type":3，"api":"./JS/drpy.min.js"，"ext":"./JS/豆瓣.js"，"searchable":0，"quickSearch":0，"filterable":1}，
+	{"key":"小苹果"，"name":"小苹果"，"type":3，"api":"csp_LiteApple"，"playerType":1，"searchable":1，"quickSearch":1，"filterable":1}，
+	{"key":"九九六"，"name":"九九六"，"type":3，"api":"csp_AppYsV2"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"http://dytt996.com/api.php/app/"}，
+	{"key":"北极狐"，"name":"北极狐"，"type":3，"api":"csp_AppYsV2"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"https://www.kuin.one/api.php/app/"}，
+	{"key":"迷你库"，"name":"迷你库"，"type":3，"api":"csp_AppYsV2"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"http://www.miniku.cc/xgapp.php/v1/"}，
+	{"key":"萌蛋蛋"，"name":"萌蛋蛋"，"type":3，"api":"csp_AppYsV2"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"http://app.mengdandan.com/xgapp.php/v1/"}，
+	{"key":"平头哥"，"name":"平头哥"，"type":3，"api":"csp_AppYsV2"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"http://www.pingtouge.top/ruifenglb_api.php/v1.vod"}，
+	{"key":"新视觉"，"name":"新视觉"，"type":3，"api":"csp_XBPQ"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"./XBPQ/新视觉.json"}，
+	{"key":"真不卡"，"name":"真不卡"，"type":3，"api":"csp_XBPQ"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"./XBPQ/真不卡.json"}，
+	{"key":"兔兔瓜"，"name":"兔兔瓜"，"type":3，"api":"csp_XBPQ"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"./XBPQ/兔兔瓜.json"}，
+	{"key":"视频库"，"name":"视频库"，"type":3，"api":"csp_XYQHiker"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"./XYQHiker/视频库.json"}，
+	{"key":"独播库"，"name":"独播库"，"type":3，"api":"csp_XYQHiker"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"./XYQHiker/独播库.json"}，
+	{"key":"臭蛋蛋"，"name":"臭蛋蛋"，"type":3，"api":"csp_XYQHiker"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"./XYQHiker/臭蛋蛋.json"}，
+	{"key":"野荷塘"，"name":"野荷塘"，"type":3，"api":"csp_XYQHiker"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"./XYQHiker/野荷塘.json"}，
+	{"key":"红领巾"，"name":"红领巾"，"type":3，"api":"csp_XYQHiker"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"./XYQHiker/红领巾.json"}，
+	{"key":"素白白"，"name":"素白白"，"type":3，"api":"csp_XYQHiker"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"./XYQHiker/素白白.json"}，
+	{"key":"我不卡"，"name":"我不卡"，"type":3，"api":"csp_XYQHiker"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"./XYQHiker/我不卡.json"}，
+	{"key":"电影牛"，"name":"电影牛"，"type":3，"api":"csp_XYQHiker"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"./XYQHiker/电影牛.json"}，
+	{"key":"看看剧"，"name":"看看剧"，"type":3，"api":"csp_XYQHiker"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"./XYQHiker/看看剧.json"}，
+	{"key":"五五五"，"name":"五五五"，"type":3，"api":"csp_XYQHiker"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"./XYQHiker/五五五.json"}，
+	{"key":"一三九"，"name":"一三九"，"type":3，"api":"./JS/drpy.min.js"，"ext":"./JS/一三九.js"}，
+	{"key":"影渣渣"，"name":"影渣渣"，"type":3，"api":"./JS/drpy.min.js"，"ext":"./JS/影渣渣.js"}，
+	{"key":"柒之社"，"name":"柒之社"，"type":3，"api":"./JS/drpy.min.js"，"ext":"./JS/柒之社.js"}，
+	{"key":"小猫咪"，"name":"小猫咪"，"type":3，"api":"./JS/drpy.min.js"，"ext":"./JS/小猫咪.js"}，
+	{"key":"七小时"，"name":"七小时"，"type":3，"api":"./JS/drpy.min.js"，"ext":"./JS/七小时.js"}，
+	{"key":"视中心"，"name":"视中心"，"type":3，"api":"./JS/drpy.min.js"，"ext":"./JS/视中心.js"}，
+	{"key":"看看屋"，"name":"看看屋"，"type":3，"api":"./JS/drpy.min.js"，"ext":"./JS/看看屋.js"}，
+	{"key":"达达龟"，"name":"达达龟"，"type":3，"api":"./JS/drpy.min.js"，"ext":"./JS/达达龟.js"}，
+	{"key":"四个圈"，"name":"四个圈"，"type":3，"api":"./JS/drpy.min.js"，"ext":"./JS/四个圈.js"}，
+	{"key":"看了么"，"name":"看了么"，"type":3，"api":"./JS/drpy.min.js"，"ext":"./JS/看了么.js"}，
+	{"key":"零零七"，"name":"零零七"，"type":3，"api":"./JS/drpy.min.js"，"ext":"./JS/零零七.js"}，
+	{"key":"小白菜"，"name":"小白菜"，"type":3，"api":"./JS/drpy.min.js"，"ext":"./JS/小白菜.js"}，
+	{"key":"美剧网"，"name":"美剧网"，"type":3，"api":"./JS/drpy.min.js"，"ext":"./JS/美剧网.js"}，
 	{"key":"一零一","name":"一零一","type":3,"api":"./JS/drpy.min.js","ext":"./JS/一零一.js"},
 	{"key":"三四五","name":"三四五","type":3,"api":"./JS/drpy.min.js","ext":"./JS/三四五.js"},
 	{"key":"免费看","name":"免费看","type":3,"api":"./JS/drpy.min.js","ext":"./JS/免费看.js"},
