@@ -151,7 +151,6 @@
 	{"key":"玩偶哥哥","name":"云盘｜玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩偶哥哥.json"},
 	{"key":"PanSearch","name":"云盘｜搜索","type":3,"api":"csp_PanSearch","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"Dovx","name":"云盘｜七夜","type":3,"api":"csp_Dovx","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
-	{"key":"YiSo","name":"云盘｜易搜","type":3,"api":"csp_YiSo","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"UpYun","name":"云盘｜云搜","type":3,"api":"csp_UpYun","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"PanSou","name":"云盘｜盘搜","type":3,"api":"csp_PanSou","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"我的小站","name":"云盘｜小站","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/我的小站.json"},
