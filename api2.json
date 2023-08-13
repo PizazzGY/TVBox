@@ -65,7 +65,6 @@
 	{"key":"滴答影视","name":"滴答影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/滴答影视.json"},
 	{"key":"徕米影视","name":"徕米影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/徕米影视.json"},
 	{"key":"萌猫影视","name":"萌猫影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/萌猫影视.json"},
-	{"key":"蘑菇影视","name":"蘑菇影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/蘑菇影视.json"},
 	{"key":"小刀电影","name":"小刀电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/小刀电影.json"},
 	{"key":"土豪影视","name":"土豪影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/土豪影视.json"},
 	{"key":"七新影视","name":"七新影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/七新影视.json"},
