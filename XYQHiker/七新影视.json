@@ -43,7 +43,7 @@
     "分类片单链接加前缀": "http://www.7xdy.com",
     "分类片单链接加后缀": "",
     "搜索请求头参数": "User-Agent$手机",
-    "搜索链接": "http://9kzy.com/search.php?page=1&searchword={wd}&searchtype=",
+    "搜索链接": "http://www.7xdy.com/search.php?page=1&searchword={wd}&searchtype=",
     "POST请求数据": "searchword={wd}",
     "搜索截取模式": "1",
     "搜索列表数组规则": ".stui-vodlist__media&&li",
