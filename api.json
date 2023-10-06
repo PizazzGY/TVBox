@@ -125,8 +125,8 @@
 	{"key":"云盘分享社","name":"云盘｜分享社","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/云盘分享社.json"},
 	{"key":"Gitcafe","name":"云盘｜小纸条","type":3,"api":"csp_Gitcafe","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"}],
 "parses":
-	[{"name":"Web聚合","type":3,"url":"Web"},
-	{"name":"Demo聚合","type":3,"url":"Demo"},
+	[//{"name":"Web聚合","type":3,"url":"Web"},
+	//{"name":"Demo聚合","type":3,"url":"Demo"},
 	{"name":"线路1","type":0,"url":"https://jx.xmflv.com/?url="},
 	{"name":"线路2","type":0,"url":"https://jx.yangtu.top/?url="},
 	{"name":"线路3","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
