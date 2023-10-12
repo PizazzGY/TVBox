@@ -9,3 +9,5 @@ https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.js
 https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json
 
 云盘资源需要登录：豆瓣→阿里云盘登录
+
+影视APP 专享弹幕资源
