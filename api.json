@@ -158,6 +158,7 @@
 "rules":
 	[{"name":"非凡量子暴风","hosts":["vip.ffzy","hd.ffzy","vip.lz","hd.lz",".cdnlz","bfzy"],"regex":["#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+","#EXTINF.*?\\s+.*?11697777.*?\\.ts\\s+"]},
 	{"name":"索尼广告","hosts":["suonizy"],"regex":["15","15.2666","#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+","#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"]},
+	{"name":"磁力广告","hosts":["magnet"],"regex":["更多","请访问","example","社 區","x u u","直 播","更 新","社 区","有趣","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
 	{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
 	{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]}],
 "doh":
