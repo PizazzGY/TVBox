@@ -2169,7 +2169,6 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/PLTV/1/224/3221231041/1.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
-
 TVBS,http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 TVBS新闻,http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 TVBS新闻,http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
@@ -2183,7 +2182,6 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 TVBS欢乐,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
-翡翠台,http://gwtv.cnv8.tv:8097/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 翡翠台,http://gwtv.cnv8.tv:8097/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
 星河台,http://gwtv.cnv8.tv:8097/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
