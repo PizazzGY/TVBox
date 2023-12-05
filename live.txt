@@ -2184,6 +2184,7 @@ TVBS新闻,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MA4A223326012233260
 TVBS欢乐,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
 翡翠台,http://gwtv.cnv8.tv:8097/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
+明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 星河台,http://gwtv.cnv8.tv:8097/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
 星河台,http://113.117.74.12:8081/hls/135/index.m3u8
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
