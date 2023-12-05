@@ -1158,6 +1158,9 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 河北｜石家庄综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
 河北｜石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
 河北｜石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
+河北｜唐山生活服务,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13111/index.m3u8
+河北｜唐山影视,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13112/index.m3u8
+河北｜唐山公共,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13113/index.m3u8
 河北｜衡山,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
 河北｜邯郸公共,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 河北｜邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
@@ -1179,6 +1182,12 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 河南｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/PLTV/1/224/3221230443/1.m3u8
 河南｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/PLTV/1/224/3221230933/1.m3u8
 河南｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/PLTV/1/224/3221230933/1.m3u8
+河南｜都市,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41101/index.m3u8
+河南｜民生,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41102/index.m3u8
+河南｜电视剧,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41104/index.m3u8
+河南｜公共,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41106/index.m3u8
+河南｜郑州新闻综合,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41112/index.m3u8
+河南｜南阳新闻综合,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41127/index.m3u8
 河南｜梨园,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 河南｜梨园,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 河南｜洛阳新闻,http://devlivepull.migucloud.com/live/3GWXF43U_C0.flv
@@ -1322,10 +1331,16 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 湖南｜电影,http://223.151.51.27:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南｜经视,http://223.151.51.27:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南｜都市,http://223.151.51.27:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南｜湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
+湖南｜经视,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43024/index.m3u8
+湖南｜娱乐,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43027/index.m3u8
+湖南｜都市,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43028/index.m3u8
+湖南｜电视剧,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43030/index.m3u8
+湖南｜金鹰卡通,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43025/index.m3u8
+湖南｜金鹰纪实,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43087/index.m3u8
 湖南｜桂东,https://liveplay-srs.voc.com.cn/hls/tv/174_6ab9f8.m3u8
 湖南｜桂阳,https://liveplay-srs.voc.com.cn/hls/tv/7_7c833e.m3u8
-湖南｜浏阳新闻,https://liveplay-srs.voc.com.cn/hls/tv/184_e3af1a.m3u8
+湖南｜湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
+湖南｜浏阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/184_e3af1a.m3u8
 
 黑龙江｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230622/1.m3u8
 黑龙江｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230622/1.m3u8
