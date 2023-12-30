@@ -1,4 +1,4 @@
-{"spider":"./spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
+{"spider":"./spider.jar;md5;9733ac5a326a4ce26dea8a5a1e3be41b",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
@@ -103,7 +103,7 @@
 	{"key":"云云弹幕","name":"弹幕｜云云","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"},
 	{"key":"云搜弹幕","name":"弹幕｜云搜","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"},
 	{"key":"盘搜弹幕","name":"弹幕｜盘搜","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"},
-	{"key":"易搜弹幕","name":"弹幕｜易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"},
+	{"key":"易搜弹幕","name":"弹幕｜易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true,"cookie":"satoken=e43a2935-ea0e-464f-ba32-2267e97b9349"},"jar":"./danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"},
 	{"key":"云盘弹幕","name":"弹幕｜云盘","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"},
 	{"key":"影视车弹幕","name":"弹幕｜影视车","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","site":"https://www.weixine.net","danmu":true},"jar":"./danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"},
 	{"key":"找资源弹幕","name":"弹幕｜找资源","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"},
