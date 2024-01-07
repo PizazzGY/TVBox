@@ -4,9 +4,9 @@
 
 https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
 
-云盘资源需要登录：豆瓣→阿里云盘登录
+阿里云盘资源使用方法：豆瓣→云盘登录→使用阿里云盘app扫描二维码
 
-夸克资源使用方法：根目录TVBox文件夹内（与token同一个文件夹），新建quark.txt文件，输入自己的cookie保存。
+夸克网盘资源使用方法：豆瓣→云盘配置→输入夸克cookie
 
 # TVBox系列软件
 
