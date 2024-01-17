@@ -11,6 +11,7 @@
 	{"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 	{"key":"天天","name":"天天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
+	{"key":"超神","name":"超神","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/超神"},
 	{"key":"星星","name":"星星","type":3,"api":"csp_App","ext":"./EXT/星星"},
 	{"key":"一起看","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 	{"key":"机器人","name":"机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1},
