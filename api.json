@@ -103,7 +103,7 @@
 	{"key":"怡萱动漫","name":"怡萱动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/怡萱动漫.js"},
 	{"key":"维奇动漫","name":"维奇动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/维奇动漫.json"},
 	{"key":"动漫巴士","name":"动漫巴士","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/动漫巴士.json"},
-	{"key":"樱花动漫","name":"樱花动漫","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/樱花动漫"},
+	{"key":"樱花动漫","name":"樱花动漫","type":3,"api":"csp_XBPQ","ext":"分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"},
 	{"key":"三六零弹幕","name":"弹幕｜三六零","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"},
 	{"key":"荐片弹幕","name":"弹幕｜荐片","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"},
 	{"key":"玩偶弹幕","name":"弹幕｜玩偶","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"},
