@@ -114,6 +114,7 @@
 	{"key":"盘搜弹幕","name":"弹幕｜盘搜","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;5a13f5336db7dbd8b1f0fdda193a663b"},
 	{"key":"易搜弹幕","name":"弹幕｜易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true,"cookie":"satoken=e43a2935-ea0e-464f-ba32-2267e97b9349"},"jar":"./danmu.jar;md5;5a13f5336db7dbd8b1f0fdda193a663b"},
 	{"key":"云盘弹幕","name":"弹幕｜云盘","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;5a13f5336db7dbd8b1f0fdda193a663b"},
+	{"key":"小纸条弹幕","name":"弹幕｜小纸条","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;5a13f5336db7dbd8b1f0fdda193a663b"},
 	{"key":"荐片","name":"磁力｜荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
 	{"key":"New6v","name":"磁力｜New6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"},
 	{"key":"SeedHub","name":"磁力｜SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
