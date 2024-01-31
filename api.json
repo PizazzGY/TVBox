@@ -18,6 +18,7 @@
 	{"key":"七七","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"喵播","name":"喵播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.230.51.151:9696/api.php/app/"},
+	{"key":"短剧","name":"短剧","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod"},
 	{"key":"影视一","name":"影视一","type":3,"api":"csp_Movie2","ext":"./EXT/Movie1"},
 	{"key":"影视二","name":"影视二","type":3,"api":"csp_Movie2","ext":"./EXT/Movie2"},
 	{"key":"影视三","name":"影视三","type":3,"api":"csp_Movie2","ext":"./EXT/Movie3"},
