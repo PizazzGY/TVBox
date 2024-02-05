@@ -111,6 +111,7 @@
 	{"key":"动漫巴士","name":"动漫巴士","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/动漫巴士.json"},
 	{"key":"樱花动漫","name":"樱花动漫","type":3,"api":"csp_XBPQ","ext":"分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"},
 	{"key":"三六零弹幕","name":"弹幕｜三六零","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;71a1068b2ae6420c851993eec0c38cda"},
+	{"key":"九九六弹幕","name":"弹幕｜九九六","type":3,"api":"csp_Cs1369","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;71a1068b2ae6420c851993eec0c38cda"},
 	{"key":"南瓜弹幕","name":"弹幕｜南瓜","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;71a1068b2ae6420c851993eec0c38cda"},
 	{"key":"天天弹幕","name":"弹幕｜天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;71a1068b2ae6420c851993eec0c38cda"},
 	{"key":"南坊弹幕","name":"弹幕｜南坊","type":3,"api":"csp_AppTo","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"string":"vRHcwF2Lt92YuQWd5V2Nt0ib45yd3d3LvoDc0RHaL3Yx"},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;71a1068b2ae6420c851993eec0c38cda"},
