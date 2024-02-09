@@ -1,5 +1,4 @@
 央视频道,#genre#
-CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964344116_67852184/ott.mobaibox.com/PLTV/3/224/3221227675/index.m3u8?icpid=3&RTS=1674379784&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0f_80&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1925441929_1417964840/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1674386335&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec0d_80&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw1528922594_677066330/ott.mobaibox.com/PLTV/3/224/3221227708/index.m3u8?icpid=3&RTS=1674385939&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
