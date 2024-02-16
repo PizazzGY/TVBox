@@ -33,6 +33,8 @@
 	{"key":"美益达","name":"美益达","type":3,"api":"./JS/drpy.min.js","ext":"./JS/美益达.js"},
 	{"key":"免费看","name":"免费看","type":3,"api":"./JS/drpy.min.js","ext":"./JS/免费看.js"},
 	{"key":"五五五","name":"五五五","type":3,"api":"./JS/drpy.min.js","ext":"./JS/五五五.js"},
+	{"key":"达达龟","name":"达达龟","type":3,"api":"./JS/drpy.min.js","ext":"./JS/达达龟.js"},
+	{"key":"茶杯狐","name":"茶杯狐","type":3,"api":"./JS/drpy.min.js","ext":"./JS/茶杯狐.js"},
 	{"key":"网飞影视","name":"网飞影视","type":3,"api":"./JS/drpy.min.js","ext":"./JS/网飞TV.js"},
 	{"key":"魔力高清","name":"魔力高清","type":3,"api":"./JS/drpy.min.js","ext":"./JS/HDmoli.js"},
 	{"key":"腾讯视频","name":"腾讯视频","type":3,"api":"./JS/drpy.min.js","ext":"./JS/腾讯视频.js"},
