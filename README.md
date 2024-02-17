@@ -8,8 +8,6 @@ https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.jso
 
 夸克网盘资源使用方法：二〇二四/主页→配置中心→输入夸克cookie
 
-弹幕资源请使用影视app观看
-
 # TVBox系列软件
 
 https://www.123pan.com/s/sPNbVv-aYuXv
