@@ -1,7 +1,7 @@
 {"spider":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar;md5;1a00d5032cc02fad54510bab6d48ed4a",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
-	[{"key":"豆瓣","name":"新年快乐","type":3,"api":"csp_Douban","searchable":0},
+	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
 	{"key":"云盘登录","name":"云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;ce9de26ea0c5527313479655c4d3b583"},
 	{"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
