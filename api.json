@@ -45,7 +45,6 @@
 	{"key":"畅梦影视","name":"畅梦影视","type":3,"api":"./JS/drpy.min.js","ext":"./JS/畅梦影视.js"},
 	{"key":"圣城影视","name":"圣城影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/圣城影视.json"},
 	{"key":"冷曦影视","name":"冷曦影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/冷曦影视.json"},
-	{"key":"徕米影视","name":"徕米影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/徕米影视.json"},
 	{"key":"萌猫影视","name":"萌猫影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/萌猫影视.json"},
 	{"key":"土豪影视","name":"土豪影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/土豪影视.json"},
 	{"key":"蛋蛋影视","name":"蛋蛋影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/蛋蛋影视.json"},
