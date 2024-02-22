@@ -9,7 +9,7 @@
 	{"key":"胡胡","name":"胡胡","type":3,"api":"csp_WebHH","searchable":1,"quickSearch":1,"filterable":0},
 	{"key":"高光","name":"高光","type":3,"api":"csp_WebGGYS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ggys.me"},
 	{"key":"欣欣","name":"欣欣","type":3,"api":"csp_Movie2","searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/欣欣"},
-	{"key":"厂长","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy66.com"},
+	{"key":"厂长","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bo.czys.me"},
 	{"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"低端","name":"低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"七七","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
