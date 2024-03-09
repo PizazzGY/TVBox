@@ -125,6 +125,7 @@
 	{"key":"阿里合集","name":"阿里｜合集","type":3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","share":""},"style":{"type":"list"},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;1d0a74ff670d78850fd443840fb66c88"},
 	{"key":"玩偶哥哥","name":"云盘｜玩偶","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩偶哥哥.json"},
 	{"key":"天天开心","name":"云盘｜开心","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/天天开心.json"},
+	{"key":"土豆网盘","name":"云盘｜土豆","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/土豆网盘.json"},
 	{"key":"云盘搜索","name":"云盘｜搜索","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/云盘搜索.json"},
 	{"key":"DOVX搜索","name":"云盘｜七夜","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/DOVX搜索.json"},
 	{"key":"Upyunso","name":"云盘｜云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
