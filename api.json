@@ -60,7 +60,6 @@
 	{"key":"歪片星球","name":"歪片星球","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/歪片星球.json"},
 	{"key":"蚂蚁影院","name":"蚂蚁影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/蚂蚁影院.json"},
 	{"key":"奇趣影视","name":"奇趣影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/奇趣影视.json"},
-	{"key":"搜狐视频","name":"搜狐视频","type":1,"api":"https://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1},
 	{"key":"四九资源","name":"四九资源","type":1,"api":"https://49zyw.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["纪录片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","奇幻片","灾难片","悬疑片","其他片","欧美剧","香港剧","国产剧","韩国剧","台湾剧","泰国剧","日剧","海外剧","国产动漫","日本动漫","欧美动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","体育赛事","短剧"]},
 	{"key":"红牛资源","name":"红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","纪录片","动漫电影"]},
 	{"key":"光速资源","name":"光速资源","type":1,"api":"http://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","动漫电影","大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","记录片"]},
