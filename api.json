@@ -66,7 +66,6 @@
 	{"key":"非凡资源","name":"非凡资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 	{"key":"AnFuns","name":"AnFuns","type":3,"api":"./JS/drpy.min.js","ext":"./JS/AnFuns.js"},
 	{"key":"Anime1","name":"Anime1","type":3,"api":"./JS/drpy.min.js","ext":"./JS/Anime1.js"},
-	{"key":"AGE动漫","name":"AGE动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/AGE动漫.js"},
 	{"key":"NT动漫","name":"NT动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/NT动漫.js"},
 	{"key":"58动漫","name":"58动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/58动漫.js"},
 	{"key":"二三三","name":"二三三","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/二三三.json"},
