@@ -3,7 +3,7 @@ muban.mxpro.二级.tab_text = 'body--small&&Text';
 var rule = {
     title: 'voflix',
     模板: 'mxpro',
-    host: 'https://www.voflix.me',
+    host: 'https://www.voflix.vip',
     homeUrl: '/label/new.html',
     // url:'/show/fyclass--------fypage---.html',
     url: '/show/fyfilter.html',
