@@ -9,3 +9,5 @@ https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/mai
 # TVBox系列软件
 
 https://www.123pan.com/s/sPNbVv-aYuXv
+
+# 如果提示接口无效，请在软件设置里修改DNS。
