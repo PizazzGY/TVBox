@@ -9,3 +9,5 @@ https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.jso
 # TVBox系列软件
 
 https://www.123pan.com/s/sPNbVv-aYuXv
+
+![本人抖音](https://github.com/PizazzGY/TVBox/assets/78096245/9b63f1ac-9fd1-43df-b2f4-bbce90ae7e52)
