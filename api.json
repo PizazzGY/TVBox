@@ -13,7 +13,7 @@
 	{"key":"酷看","name":"酷看","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1},
 	{"key":"明日","name":"明日","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1},
 	{"key":"腐剧","name":"腐剧","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1},
-	{"key":"七七","name":"七七","type":3,"api":"csp_WexKuyun77","searchable":1,"changeable":1},
+	//{"key":"七七","name":"七七","type":3,"api":"csp_WexKuyun77","searchable":1,"changeable":1},
 	{"key":"啾啾","name":"啾啾","type":3,"api":"csp_Wexjiohub","searchable":1,"changeable":1},
 	{"key":"文才","name":"文才","type":3,"api":"csp_Wexwencai","searchable":1,"changeable":1},
 	{"key":"农民","name":"农民","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
