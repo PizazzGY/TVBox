@@ -13,7 +13,6 @@
 	{"key":"低端","name":"低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"短剧","name":"短剧","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod"},
-	{"key":"一起看","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":0},
 	{"key":"新视觉","name":"新视觉","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.6080yy4.com"},
 	{"key":"机器人","name":"机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.ikanbot.com"},
 	{"key":"短剧网","name":"短剧网","type":3,"api":"csp_Duanjuw","searchable":1,"quickSearch":1,"changeable":1},
