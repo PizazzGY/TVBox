@@ -1,6 +1,6 @@
 var rule = {
 	title: '555电影[V2]', // csp_AppYsV2
-	host:'https://www.555dyy.top',
+	host:'https://55app.cc',
 	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,".row:eq(2)&&a&&href");print(src);HOST=src+"/api.php/app/"',
 	url: 'video?tid=fyclassfyfilter&limit=20&pg=fypage',
 	filter_url:'&class={{fl.class}}&area={{fl.area}}&lang={{fl.lang}}&letter={{fl.letter}}&year={{fl.year}}&by={{fl.by}}',
