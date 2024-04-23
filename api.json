@@ -50,7 +50,6 @@
 	{"key":"热播之家","name":"热播之家","type":3,"api":"./JS/drpy.min.js","ext":"./JS/热播之家.js"},
 	{"key":"金曼影视","name":"金曼影视","type":3,"api":"./JS/drpy.min.js","ext":"./JS/金曼影视.js"},
 	{"key":"畅梦影视","name":"畅梦影视","type":3,"api":"./JS/drpy.min.js","ext":"./JS/畅梦影视.js"},
-	{"key":"白嫖影视","name":"白嫖影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/白嫖影视.json"},
 	{"key":"圣城影视","name":"圣城影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/圣城影视.json"},
 	{"key":"冷曦影视","name":"冷曦影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/冷曦影视.json"},
 	{"key":"萌猫影视","name":"萌猫影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/萌猫影视.json"},
