@@ -16,7 +16,7 @@
 	{"key":"明日影视","name":"明日影视","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1},
 	{"key":"腐剧视频","name":"腐剧视频","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1},
 	{"key":"韩剧视频","name":"韩剧视频","type":3,"api":"csp_Wexhanjutv","searchable":1,"changeable":1},
-	{"key":"酷云七七","name":"酷云小七","type":3,"api":"csp_WexKuyun77","searchable":1,"changeable":1},
+	{"key":"酷云七七","name":"酷云七七","type":3,"api":"csp_WexKuyun77","searchable":1,"changeable":1},
 	{"key":"文才影视","name":"文才影视","type":3,"api":"csp_Wexwencai","searchable":1,"changeable":1},
 	{"key":"农民影视","name":"农民影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
 	{"key":"白嫖影视","name":"白嫖影视","type":3,"api":"csp_Wexbaipiao","searchable":1,"changeable":1},
