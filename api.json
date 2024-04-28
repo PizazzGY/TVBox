@@ -1,4 +1,4 @@
-{"spider":"./spider.jar;md5;f697c6b867bfa6b613b81f82b0596756",
+{"spider":"./spider.jar;md5;ee25fa344922c0ac0b677b15ddbfa6d6",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
