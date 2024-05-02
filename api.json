@@ -1,4 +1,4 @@
-{"spider":"./spider.jar;md5;ee25fa344922c0ac0b677b15ddbfa6d6",
+{"spider":"./spider.jar;md5;2fa7faea7a08037d909c906a4578874e",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
@@ -24,9 +24,9 @@
 	{"key":"极品短剧","name":"极品短剧","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":1},
 	{"key":"短剧搜索","name":"短剧搜索","type":3,"api":"csp_Wexduanjuso","searchable":1,"changeable":0},
 	{"key":"素白白","name":"素白白","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1},
-	{"key":"新视觉","name":"新视觉","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.6080yy4.com"},
 	{"key":"机器人","name":"机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.ikanbot.com"},
 	{"key":"酷影视","name":"酷影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
+	{"key":"新视觉","name":"新视觉","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/新视觉.json"},
 	{"key":"三四八","name":"三四八","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/三四八.json"},
 	{"key":"电影牛","name":"电影牛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛.json"},
 	{"key":"爱奇艺","name":"爱奇艺","type":3,"api":"./JS/drpy.min.js","ext":"./JS/爱奇艺.js"},
