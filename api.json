@@ -1,10 +1,10 @@
-{"spider":"./spider.jar;md5;2fa7faea7a08037d909c906a4578874e",
+{"spider":"./spider.jar;md5;81330412e1f9e6c407ad8d08db400590",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
 	{"key":"云盘登录","name":"云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
-	{"key":"影探蓝光","name":"影探蓝光","type":3,"api":"csp_WexYingtan4k","searchable":1,"changeable":1},
+	{"key":"影探蓝光","name":"影探蓝光","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":0,"ext":"W5oiFIJWXdNTJR3aBqvu1ZNS5mnqT/NwZ0FhzbtIBX3FMKftY7yLAcj1P+nCq+bg1f+FWyup7ptaf4O5iF+7ImPv5VZ0DQyDmE5C9KkjXJHp4YAcZPCL/NtGj8IaVFUVXi10XLhX7+d4WmbvWoSKQCb6Is6zDv4BnWDVZ/eN6Jp9fLTAC9xsGHB8l461jjb1KEzOpP1/K2Goh8bDoD9J6ox31zKI/LHGCrr+3S35AMfL50wy3vbVswlLGUFP7vO3SzdbiYgjid1jCyeuSG2TZPdIW9quiw10m802Vcrfu2vH1GXHmUs/fAIiH/P5LsPvW07TqXXYRozECNB0TU5iR75QK53snnf0H4K/xIkoG6cBoW5F0f7W6danJGi0HZIo1giervIUTITGLqTixAk8yTAqK2LU5NA1W9W4RODtuA01mDJeh6g/YT11aVYYBOKo"},
 	{"key":"南瓜影视","name":"南瓜影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0},
 	{"key":"天天影视","name":"天天影视","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn"},
 	{"key":"热播影视","name":"热播影视","type":3,"api":"csp_TTian","ext":"http://v.rbotv.cn"},
