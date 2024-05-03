@@ -1,4 +1,4 @@
-{"spider":"./spider.jar;md5;81330412e1f9e6c407ad8d08db400590",
+{"spider":"./spider.jar;md5;6b0d0be123195c911e371f21e8e9cab0",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
@@ -20,8 +20,8 @@
 	{"key":"酷云七七","name":"酷云七七","type":3,"api":"csp_WexKuyun77","searchable":1,"changeable":1},
 	{"key":"文才影视","name":"文才影视","type":3,"api":"csp_Wexwencai","searchable":1,"changeable":1},
 	{"key":"白嫖影视","name":"白嫖影视","type":3,"api":"csp_Wexbaipiao","searchable":1,"changeable":1},
+	{"key":"农民影视","name":"农民影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
 	{"key":"秒播短剧","name":"秒播短剧","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":1},
-	{"key":"极品短剧","name":"极品短剧","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":1},
 	{"key":"短剧搜索","name":"短剧搜索","type":3,"api":"csp_Wexduanjuso","searchable":1,"changeable":0},
 	{"key":"素白白","name":"素白白","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1},
 	{"key":"机器人","name":"机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.ikanbot.com"},
