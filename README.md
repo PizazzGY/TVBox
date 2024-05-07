@@ -6,6 +6,13 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/a
 
 阿里云盘资源使用方法：豆瓣/主页→云盘登录→使用阿里云盘app扫描二维码
 
+“本地资源”自定义主页logo（影视App专用）
+位置：根目录/TVBox/logo.png
+
+“本地资源”自定义壁纸
+位置：根目录/TVBox/wallpaper.jpg
+
+
 # TVBox系列软件
 
 https://www.123pan.com/s/sPNbVv-aYuXv
