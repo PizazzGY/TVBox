@@ -8,7 +8,7 @@
 	{"key":"天天影视","name":"天天影视","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn"},
 	{"key":"热播影视","name":"热播影视","type":3,"api":"csp_TTian","ext":"http://v.rbotv.cn"},
 	{"key":"追剧影视","name":"追剧影视","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com"},
-	{"key":"厂长资源","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cz233.com/"},
+	{"key":"厂长资源","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czys.top/"},
 	{"key":"低端影视","name":"低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"兄弟影视","name":"兄弟影视","type":3,"api":"csp_Wexxiongdiys","searchable":1,"changeable":1},
