@@ -1,4 +1,4 @@
-{"spider":"./spider.jar;md5;4f18e038054be91a7f8032a4e9a3ee3d",
+{"spider":"./spider.jar;md5;b0c2afad9ab79c51a69cf82e23a86258",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
@@ -24,7 +24,9 @@
 	{"key":"看看影视","name":"看看影视","type":3,"api":"csp_WebIV","searchable":1,"quickSearch":1,"filterable":0},
 	{"key":"米米影视","name":"米米影视","type":3,"api":"csp_WebDM","searchable":1,"quickSearch":1,"filterable":0},
 	{"key":"追影视频","name":"追影视频","type":3,"api":"csp_WebZY","searchable":1,"quickSearch":1,"filterable":0},
-	{"key":"南坊追剧","name":"南坊追剧","type":3,"api":"csp_WebNF","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.nfzj.fun"},
+	{"key":"南坊追剧","name":"南坊追剧","type":3,"api":"csp_WebNF","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.nfzj.fun"},
+	{"key":"农民影视","name":"农民影视","type":3,"api":"csp_WebNM","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://v.nmvod.cn"},
+	{"key":"八八影视","name":"八八影视","type":3,"api":"csp_AppEight","searchable":1,"quickSearch":1,"filterable":0,"ext":{"siteUrl":"https://api.kpyun6.cn","deviceId":"b0d43379a488e74d"}},
 	{"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
 	{"key":"视频库","name":"视频库","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc"},
 	{"key":"素白白","name":"素白白","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1},
