@@ -6,7 +6,7 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/a
 
 阿里云盘资源使用方法：豆瓣/主页→云盘登录→使用阿里云盘app扫描二维码
 
-“本地资源”自定义主页logo（影视、Easybox）
+“本地资源”自定义主页logo（影视2.3.4-即将更新、Easybox1.3.5）
 位置：根目录/TVBox/logo.png
 
 “本地资源”自定义壁纸
