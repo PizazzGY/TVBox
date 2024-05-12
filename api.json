@@ -1,4 +1,4 @@
-{"spider":"./spider.jar;md5;b0c2afad9ab79c51a69cf82e23a86258",
+{"spider":"./spider.jar;md5;8ee8e83f03d2a33b43db3a8717495d24",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
@@ -18,6 +18,7 @@
 	{"key":"韩剧视频","name":"韩剧视频","type":3,"api":"csp_Wexhanjutv","searchable":1,"changeable":1},
 	{"key":"文才影视","name":"文才影视","type":3,"api":"csp_Wexwencai","searchable":1,"changeable":1},
 	{"key":"秒播短剧","name":"秒播短剧","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":1},
+	{"key":"极品短剧","name":"极品短剧","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":1},
 	{"key":"影探蓝光","name":"影探蓝光","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":0,"ext":"z6aMzDclLwZa7eCQN0nAaMJTu+8HfYERSWRA9AuiPd5ju12RwkZY66pe1tXgTKme4myqMhNAu9a5aDusX/CFhq0GULMcLI0pBe4sO5Jk9iHT4EzGybWth1IYcQZzmT/Uknh6TZ6cHKTEuxhe9kEcbHe/matKBgar76JHg9Ss2kMqYgvU1NSsFSnVVAE7LeVECZO0XGQyrUS8VCpRjkdBsxmMhpS0QcwkxE57v9xCb+A="},
 	{"key":"耐看影视","name":"耐看影视","type":3,"api":"csp_AppNK","searchable":1,"changeable":0,"ext":"wZB2IYYD+8ueQYpVwNaeD9aWApRB50dhdsn0OGaiy7TzSEVFMPaUfP2IAhTWawXLgmBeISnN/ofFRtSAyaR1VuyyMIMe3u73MLA9RoQufYOihJUTbZl+jdef+X40n5RBuTS2EtpQjp5pWeakl4S99w=="},
 	{"key":"圣城影视","name":"圣城影视","type":3,"api":"csp_AppNK","searchable":1,"changeable":0,"ext":"mDw3UhvpqIkZ5UdXklz/4Il9zM5cNjB0mlRRZ9AJtWoDBppZXY/MdmoGXv//uRgRP2GmDU4DQ0dtJ3TOynvDwm+Yb2YXjCzfj0qmrCIfLeBniWNTsTxzfA32PGyymnWql5B8DHQxKbHgDEgJ6j4L4w=="},
