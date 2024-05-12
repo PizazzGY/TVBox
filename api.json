@@ -93,6 +93,7 @@
 	{"key":"三六零弹幕","name":"弹幕｜三六零","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"./danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519"},
 	{"key":"机器人弹幕","name":"弹幕｜机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519"},
 	{"key":"小苹果弹幕","name":"弹幕｜小苹果","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519"},
+	{"key":"一起看弹幕","name":"弹幕｜一起看","type":3,"api":"csp_Yqk","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519"},
 	{"key":"JOJO弹幕","name":"弹幕｜JOJO","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519"},
 	{"key":"荐片弹幕","name":"弹幕｜荐片","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519"},
 	{"key":"哔嘀弹幕","name":"弹幕｜哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519"},
