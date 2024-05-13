@@ -798,16 +798,6 @@
             "ext": "./JS/58动漫.js"
         },
         {
-            "key": "二三三",
-            "name": "二三三",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XBPQ/二三三.json"
-        },
-        {
             "key": "路漫漫",
             "name": "路漫漫",
             "type": 3,
