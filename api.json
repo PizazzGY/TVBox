@@ -1594,6 +1594,20 @@
                 "danmu": true
             },
             "jar": "./danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519"
+        },
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
+            },
+            "jar": "./danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519"
         }
     ],
     "parses": [
