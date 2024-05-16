@@ -1336,7 +1336,7 @@
             "filterable": 0,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "share": ""
+                "share": "./JS/alishare.txt"
             },
             "style": {
                 "type": "list"
