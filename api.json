@@ -1078,7 +1078,7 @@
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "site": "https://www.wogg.link",
+                "site": "https://www.wogg.net",
                 "danmu": true
             },
             "jar": "./danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
