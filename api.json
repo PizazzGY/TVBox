@@ -350,6 +350,13 @@
             "ext": "./JS/爱奇艺.js"
         },
         {
+            "key": "三六零",
+            "name": "三六零",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/三六零.js"
+        },
+        {
             "key": "追剧迷",
             "name": "追剧迷",
             "type": 3,
@@ -404,6 +411,13 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/芒果视频.js"
+        },
+        {
+            "key": "搜狗视频",
+            "name": "搜狗视频",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/搜狗视频.js"
         },
         {
             "key": "乐鱼影视",
@@ -895,6 +909,13 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/怡萱动漫.js"
+        },
+        {
+            "key": "花子动漫",
+            "name": "花子动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/花子动漫.js"
         },
         {
             "key": "稀饭动漫",
