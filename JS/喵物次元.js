@@ -1,23 +1,38 @@
 var rule = {
-     title: '喵物次元',
-     host: 'https://catw.moe',
-     模板:'短视2',
-     searchUrl: '/index.php/vod/search/wd/**.html',
-     url:'index.php/vod/show/id/fyclass/page/fypage.html',
-     searchable: 2,//是否启用全局搜索,
-     quickSearch: 1,//是否启用快速搜索,
-     filterable: 0,//是否启用分类筛选,
-     headers: {
-       'User-Agent': 'MOBILE_UA'
-     },
-     play_parse: true,
-     lazy: '',
-     limit: 6,
-     tab_rename:{'喵物次元':'LR',},
-     class_name:'TV动画&剧场版&特摄剧',
-     class_url:'1&2&20',
-     double: false, // 推荐内容是否双层定位
-     推荐: '*',
-     一级: '.public-list-exp;a&&title;img&&data-src;.ft2&&Text;a&&href',
-     搜索: '.public-list-box;.thumb-txt&&Text;.public-list-exp&&img&&data-src;.public-list-prb&&Text;a&&href'
-    }
+  title:'喵物次元',
+  host:'https://www.mwcy.net/',
+  url:'/catshow/fyclass/fypage.html',
+  searchUrl:'/catsearch/page/fypage/wd/**.html',
+  searchable:2,
+  quickSearch:0,
+  filterable:1,
+  filter:'',
+  filter_url:'',
+  filter_def:{},
+  headers:{
+      'User-Agent':'MOBILE_UA',
+  },
+  timeout:5000,
+  class_parse:'div.head-more a;a&&Text;a&&href;.*/(.*?)\.html',
+  cate_exclude:'特摄剧|我的|专题|排行榜|周番剧表',
+  play_parse:true,
+  lazy:$js.toString(()=>{
+    input = {parse:1,url:input,js:''};
+  }),
+  double:true,
+  //推荐:'.public-list-div;a;a&&title;img&&data-src;.public-list-prb&&Text;a&&href',
+  一级:'.public-list-div a;a&&title;img&&data-src;span:eq(1)&&Text;a&&href;详情',
+  二级:{
+    title:'h3&&Text;.style-detail span:eq(7)&&Text',
+    img:'.style-detail&&img&&data-src',
+    desc:'主要信息;.style-detail&&a&&Text;地区;.style-detail&&.slide-info:eq(2)&&Text;.style-detail&&a:eq(2)&&Text',
+    content:'#height_limit&&Text',
+    tabs:'.nav-swiper a',
+    lists:'.anthology-list-play li',
+    tab_text:'body&&Text',
+    list_text:'body&&Text',
+    list_url:'a&&href',
+    list_url_prefix: '',
+  },
+  搜索:'.box-width:eq(1)&&.public-list-exp;.public-list-exp&&img&&alt;.public-list-exp&&img&&data-src;.public-list-exp&&span&&Text;a&&href',
+}
