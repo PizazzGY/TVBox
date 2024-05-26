@@ -469,16 +469,6 @@
             "ext": "./JS/畅梦影视.js"
         },
         {
-            "key": "蛋蛋影视",
-            "name": "蛋蛋影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XBPQ/蛋蛋影视.json"
-        },
-        {
             "key": "五五影视",
             "name": "五五影视",
             "type": 3,
@@ -934,16 +924,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://www.mutefun.tv"
-        },
-        {
-            "key": "维奇动漫",
-            "name": "维奇动漫",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./XBPQ/维奇动漫.json"
         },
         {
             "key": "动漫巴士",
