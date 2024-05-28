@@ -74,28 +74,28 @@
             "key": "天天影视",
             "name": "天天影视",
             "type": 3,
+            "api": "csp_AppTT",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_AppTT"
+            "filterable": 1
         },
         {
             "key": "热播影视",
             "name": "热播影视",
             "type": 3,
+            "api": "csp_AppRB",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_AppRB"
+            "filterable": 1
         },
         {
             "key": "追剧影视",
             "name": "追剧影视",
             "type": 3,
+            "api": "csp_AppZJ",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_AppZJ"
+            "filterable": 1
         },
         {
             "key": "厂长资源",
