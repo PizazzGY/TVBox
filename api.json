@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar;md5;dfa413850c16ddd79d05c62f23cbd35e",
+    "spider": "./spider.jar;md5;7ddc08e410d76ceb8af9209e828a46f4",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -74,22 +74,28 @@
             "key": "天天影视",
             "name": "天天影视",
             "type": 3,
-            "api": "csp_TTian",
-            "ext": "http://op.ysdqjs.cn"
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_AppTT"
         },
         {
             "key": "热播影视",
             "name": "热播影视",
             "type": 3,
-            "api": "csp_TTian",
-            "ext": "http://v.rbotv.cn"
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_AppRB"
         },
         {
             "key": "追剧影视",
             "name": "追剧影视",
             "type": 3,
-            "api": "csp_TTian",
-            "ext": "http://app.kzjtv.com"
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_AppZJ"
         },
         {
             "key": "厂长资源",
@@ -243,16 +249,7 @@
             "quickSearch": 1,
             "filterable": 0
         },
-        {
-            "key": "追影视频",
-            "name": "追影视频",
-            "type": 3,
-            "api": "csp_WebZY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
+       {
             "key": "南坊追剧",
             "name": "南坊追剧",
             "type": 3,
@@ -262,17 +259,7 @@
             "filterable": 0,
             "ext": "https://www.nfzj.fun"
         },
-        {
-            "key": "农民影视",
-            "name": "农民影视",
-            "type": 3,
-            "api": "csp_WebNM",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://v.nmvod.cn"
-        },
-        {
+       {
             "key": "八八影视",
             "name": "八八影视",
             "type": 3,
@@ -1273,6 +1260,27 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/电影港.json"
+        },
+        {
+            "key": "好恐怖",
+            "name": "磁力｜好恐怖",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XBPQ/好恐怖.json"
+        },
+        {
+            "key": "小白网",
+            "name": "磁力｜小白网",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XBPQ/小白网.json"
         },
         {
             "key": "布谷TV",
