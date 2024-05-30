@@ -344,6 +344,13 @@
             "ext": "./JS/三六零.js"
         },
         {
+            "key": "剧圈圈",
+            "name": "剧圈圈",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/剧圈圈.js"
+        },
+        {
             "key": "追剧迷",
             "name": "追剧迷",
             "type": 3,
@@ -405,6 +412,13 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/搜狗视频.js"
+        },
+        {
+            "key": "哔哩视频",
+            "name": "哔哩视频",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/哔哩视频.js"
         },
         {
             "key": "乐鱼影视",
