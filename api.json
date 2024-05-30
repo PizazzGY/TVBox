@@ -1517,16 +1517,6 @@
             "ext": "./XYQHiker/云盘资源.json"
         },
         {
-            "key": "云盘资源分享",
-            "name": "云盘｜分享",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/云盘资源分享.json"
-        },
-        {
             "key": "夸克玩偶弹幕",
             "name": "夸克｜玩偶",
             "type": 3,
