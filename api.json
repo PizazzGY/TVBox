@@ -230,38 +230,6 @@
 			"changeable": 1
 		},
 		{
-			"key": "精品短剧",
-			"name": "精品短剧",
-			"type": 3,
-			"api": "csp_Wexduanjuvip",
-			"searchable": 0,
-			"changeable": 0
-		},
-		{
-			"key": "秒播短剧",
-			"name": "秒播短剧",
-			"type": 3,
-			"api": "csp_Wexduanjuvop",
-			"searchable": 0,
-			"changeable": 0
-		},
-		{
-			"key": "极品短剧",
-			"name": "极品短剧",
-			"type": 3,
-			"api": "csp_Wexduanjuvmp",
-			"searchable": 0,
-			"changeable": 0
-		},
-		{
-			"key": "河马短剧",
-			"name": "河马短剧",
-			"type": 3,
-			"api": "csp_Wexduanjuhema",
-			"searchable": 0,
-			"changeable": 0
-		},
-		{
 			"key": "耐看影视",
 			"name": "耐看影视",
 			"type": 3,
