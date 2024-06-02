@@ -234,32 +234,32 @@
 			"name": "精品短剧",
 			"type": 3,
 			"api": "csp_Wexduanjuvip",
-			"searchable": 1,
-			"changeable": 1
+			"searchable": 0,
+			"changeable": 0
 		},
 		{
 			"key": "秒播短剧",
 			"name": "秒播短剧",
 			"type": 3,
 			"api": "csp_Wexduanjuvop",
-			"searchable": 1,
-			"changeable": 1
+			"searchable": 0,
+			"changeable": 0
 		},
 		{
 			"key": "极品短剧",
 			"name": "极品短剧",
 			"type": 3,
 			"api": "csp_Wexduanjuvmp",
-			"searchable": 1,
-			"changeable": 1
+			"searchable": 0,
+			"changeable": 0
 		},
 		{
 			"key": "河马短剧",
 			"name": "河马短剧",
 			"type": 3,
 			"api": "csp_Wexduanjuhema",
-			"searchable": 1,
-			"changeable": 1
+			"searchable": 0,
+			"changeable": 0
 		},
 		{
 			"key": "耐看影视",
