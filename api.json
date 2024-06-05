@@ -266,29 +266,6 @@
             "filterable": 0
         },
         {
-            "key": "南坊追剧",
-            "name": "南坊追剧",
-            "type": 3,
-            "api": "csp_WebNF",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://www.nfzj.fun"
-        },
-        {
-            "key": "八八影视",
-            "name": "八八影视",
-            "type": 3,
-            "api": "csp_AppEight",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "siteUrl": "https://api.kpyun6.cn",
-                "deviceId": "b0d43379a488e74d"
-            }
-        },
-        {
             "key": "星芽短剧",
             "name": "星芽短剧",
             "type": 3,
