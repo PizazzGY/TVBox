@@ -193,7 +193,7 @@
             "key": "星辰影视",
             "name": "星辰影视",
             "type": 3,
-            "api": "csp_WexXingcheen",
+            "api": "csp_WexXingchen",
             "searchable": 1,
             "changeable": 1
         },
