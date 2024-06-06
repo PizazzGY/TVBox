@@ -855,9 +855,8 @@
             "key": "次元城",
             "name": "次元城",
             "type": 3,
-            "api": "csp_Wexciyuancheng",
-            "searchable": 1,
-            "changeable": 1
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/次元城.js"
         },
         {
             "key": "喵物次元",
@@ -900,14 +899,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/花子动漫.js"
-        },
-        {
-            "key": "稀饭动漫",
-            "name": "稀饭动漫",
-            "type": 3,
-            "api": "csp_Wexxifan",
-            "searchable": 1,
-            "changeable": 1
         },
         {
             "key": "暮暮动漫",
