@@ -230,6 +230,30 @@
             "changeable": 1
         },
         {
+            "key": "骚火影视",
+            "name": "骚火影视",
+            "type": 3,
+            "api": "csp_Wexsaohuo",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "在线之家",
+            "name": "在线之家",
+            "type": 3,
+            "api": "csp_Wexzxzj",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "精品短剧",
+            "name": "精品短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuvip",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "耐看影视",
             "name": "耐看影视",
             "type": 3,
@@ -433,13 +457,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/大米星球.js"
-        },
-        {
-            "key": "在线之家",
-            "name": "在线之家",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/在线之家.js"
         },
         {
             "key": "欧帝影院",
