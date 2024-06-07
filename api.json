@@ -53,15 +53,6 @@
             "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
         },
         {
-            "key": "上头短剧",
-            "name": "上头短剧",
-            "type": 3,
-            "api": "csp_Duanju",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "./danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
-        },
-        {
             "key": "南瓜影视",
             "name": "南瓜影视",
             "type": 3,
