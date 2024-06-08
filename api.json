@@ -909,6 +909,20 @@
             "ext": "./JS/花子动漫.js"
         },
         {
+            "key": "驴番动漫",
+            "name": "驴番动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/驴番动漫.js"
+        },
+        {
+            "key": "动漫巴士",
+            "name": "动漫巴士",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/动漫巴士.js"
+        },
+        {
             "key": "暮暮动漫",
             "name": "暮暮动漫",
             "type": 3,
@@ -917,16 +931,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://www.mutean.com"
-        },
-        {
-            "key": "动漫巴士",
-            "name": "动漫巴士",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./XBPQ/动漫巴士.json"
         },
         {
             "key": "樱花动漫",
