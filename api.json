@@ -1197,6 +1197,19 @@
             "jar": "./danmu.jar;md5;7c068ecb361701115b06427aead99448"
         },
         {
+            "key": "小纸条弹幕",
+            "name": "弹幕｜小纸条",
+            "type": 3,
+            "api": "csp_XiaoZhiTiao",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt"
+            },
+            "jar": "http://127.0.0.1:9978/file/TVBoxOSC/本地仓/danmu.jar"
+        },
+        {
             "key": "荐片",
             "name": "磁力｜荐片",
             "type": 3,
@@ -1511,6 +1524,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/云盘资源.json"
+        },
+        {
+            "key": "Gitcafe",
+            "name": "云盘｜小纸条",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
         },
         {
             "key": "夸克玩偶弹幕",
