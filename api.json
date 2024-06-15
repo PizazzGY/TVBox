@@ -923,6 +923,13 @@
             "ext": "./JS/动漫巴士.js"
         },
         {
+            "key": "樱花动漫",
+            "name": "樱花动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/樱花动漫.js"
+        },
+        {
             "key": "暮暮动漫",
             "name": "暮暮动漫",
             "type": 3,
@@ -931,13 +938,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://www.mutean.com"
-        },
-        {
-            "key": "樱花动漫",
-            "name": "樱花动漫",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
         },
         {
             "key": "南瓜弹幕",
