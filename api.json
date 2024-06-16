@@ -1291,7 +1291,7 @@
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true,
-                "cookie": "satoken=ba2ea3ca-bd57-41da-98dc-8d93b65eac3b"
+                "cookie": "satoken=60201207-5254-4d44-8ed9-db4ed5476163"
             },
             "jar": "./danmu.jar;md5;fb78582ff48dd571d477d2367b1059ed"
         },
