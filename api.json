@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar;md5;6ee323d5574fd9408bd8a4332c3431c4",
+    "spider": "./spider.jar;md5;804fd07532aecd979493164b775fc948",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -312,8 +312,64 @@
             "changeable": 1
         },
         {
+            "key": "愉悦影视",
+            "name": "愉悦影视",
+            "type": 3,
+            "api": "csp_Wexyuyueys",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "花蕊影视",
+            "name": "花蕊影视",
+            "type": 3,
+            "api": "csp_Wexhuaruitv",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "甲子影视",
+            "name": "甲子影视",
+            "type": 3,
+            "api": "csp_Wexjiazitv",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "秒播短剧",
+            "name": "秒播短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuvop",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "仙品短剧",
+            "name": "仙品短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuhema",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "极品短剧",
+            "name": "极品短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuvmp",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "精品短剧",
             "name": "精品短剧",
+            "type": 3,
+            "api": "csp_Wexvipduanju",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "良品短剧",
+            "name": "良品短剧",
             "type": 3,
             "api": "csp_Wexduanjuvip",
             "searchable": 1,
