@@ -146,7 +146,7 @@
         },
         {
             "key": "忍者影视",
-            "name": " 忍者影视",
+            "name": "忍者影视",
             "type": 3,
             "api": "csp_AppRZ",
             "searchable": 1,
@@ -165,7 +165,7 @@
         },
         {
             "key": "可可影视",
-            "name": " 可可影视",
+            "name": "可可影视",
             "type": 3,
             "api": "csp_Keke",
             "searchable": 1,
@@ -183,7 +183,7 @@
         },
         {
             "key": "Voflix",
-            "name": " Voflix",
+            "name": "Voflix",
             "type": 3,
             "api": "csp_Voflix",
             "searchable": 1,
