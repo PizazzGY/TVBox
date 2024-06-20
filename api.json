@@ -34,6 +34,16 @@
             "jar": "./danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
         },
         {
+            "key": " 影探VIP",
+            "name": " 影探VIP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://cms-myz.lyyytv.cn/api.php/app/"
+        },
+        {
             "key": "韩小圈",
             "name": "韩小圈",
             "type": 3,
