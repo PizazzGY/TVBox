@@ -6,8 +6,8 @@
             "key": "豆瓣",
             "name": "豆瓣",
             "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/豆瓣.js"
         },
         {
             "key": "云盘登录",
