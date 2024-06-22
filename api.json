@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar;md5;08627128682cda2802a3c4ab7bc3a375",
+    "spider": "./spider.jar;md5;f825a0ce4269de14fdeab22d9418472e",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -187,6 +187,42 @@
             "name": "圣城影视",
             "type": 3,
             "api": "csp_SC1080",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "视觉影视",
+            "name": "视觉影视",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "疯狗影视",
+            "name": "疯狗影视",
+            "type": 3,
+            "api": "csp_FengGo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "耐看影视",
+            "name": "耐看影视",
+            "type": 3,
+            "api": "csp_Nkdy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "FreeOK",
+            "name": "FreeOK",
+            "type": 3,
+            "api": "csp_FreeOK",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1647,6 +1683,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/云盘资源.json"
+        },
+        {
+            "key": "我的小站",
+            "name": "云盘｜小站",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/我的小站.json"
         },
         {
             "key": "Gitcafe",
