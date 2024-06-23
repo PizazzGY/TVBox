@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar;md5;f825a0ce4269de14fdeab22d9418472e",
+    "spider": "./spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -1693,6 +1693,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/我的小站.json"
+        },
+        {
+            "key": "易迪",
+            "name": "云盘｜易迪",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/易迪.json"
         },
         {
             "key": "Gitcafe",
