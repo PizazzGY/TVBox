@@ -278,22 +278,6 @@
             "changeable": 1
         },
         {
-            "key": "地瓜影视",
-            "name": "地瓜影视",
-            "type": 3,
-            "api": "csp_Wexdiguatv",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "闪电影视",
-            "name": "闪电影视",
-            "type": 3,
-            "api": "csp_Wexshandian",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "啾啾影视",
             "name": "啾啾影视",
             "type": 3,
@@ -378,30 +362,6 @@
             "name": "甲子影视",
             "type": 3,
             "api": "csp_Wexjiazitv",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "秒播短剧",
-            "name": "秒播短剧",
-            "type": 3,
-            "api": "csp_Wexduanjuvop",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "仙品短剧",
-            "name": "仙品短剧",
-            "type": 3,
-            "api": "csp_Wexduanjuhema",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "极品短剧",
-            "name": "极品短剧",
-            "type": 3,
-            "api": "csp_Wexduanjuvmp",
             "searchable": 1,
             "changeable": 1
         },
