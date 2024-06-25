@@ -14,8 +14,6 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/a
 
 注：如果出现弹幕无法加载或加载失败的问题，清理软件数据，并重新配置即可解决。
 
-注：如果出现弹幕无法加载或加载失败的问题，清理软件数据，并重新配置即可解决。
-
 # TVBox系列软件
 
 https://www.123pan.com/s/sPNbVv-aYuXv
