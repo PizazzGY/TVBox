@@ -1655,16 +1655,6 @@
             "ext": "./XYQHiker/我的小站.json"
         },
         {
-            "key": "易迪",
-            "name": "云盘｜易迪",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/易迪.json"
-        },
-        {
             "key": "Gitcafe",
             "name": "云盘｜小纸条",
             "type": 3,
