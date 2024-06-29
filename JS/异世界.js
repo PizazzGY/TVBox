@@ -1,6 +1,6 @@
 var rule={
     title:'异世界动漫',
-    host:'https://www.lldm.net',
+    host:'https://www.dmmiku.com/',
     homeUrl:'/index.php/vod/show/id/22.html',
     // url:'/index.php/vod/show/class/fyclass/id/20/page/fypage.html',
     url:'/index.php/vod/show/fyclassfyfilter.html',

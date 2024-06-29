@@ -3,7 +3,7 @@ Object.assign(muban.mxpro.二级, {
 });
 var rule = {
     模板: 'mxpro',
-    title: '驴番',
+    title: '驴番[漫]',
     host: 'https://www.lvfan.fun',
     url: 'vodshow/fyclass--------fypage---/',
     class_parse: '.navbar-items li;a&&Text;a&&href;.*/(\\d+)/',
