@@ -909,11 +909,11 @@
             ]
         },
         {
-            "key": "AnFuns",
-            "name": "AnFuns",
+            "key": "58动漫",
+            "name": "58动漫",
             "type": 3,
             "api": "./JS/drpy2.min.js",
-            "ext": "./JS/AnFuns.js"
+            "ext": "./JS/58动漫.js"
         },
         {
             "key": "Anime1",
@@ -928,13 +928,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/NT动漫.js"
-        },
-        {
-            "key": "58动漫",
-            "name": "58动漫",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/58动漫.js"
         },
         {
             "key": "路漫漫",
@@ -972,13 +965,6 @@
             "ext": "./JS/异世界.js"
         },
         {
-            "key": "喵次元",
-            "name": "喵次元",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/喵次元.js"
-        },
-        {
             "key": "次元城",
             "name": "次元城",
             "type": 3,
@@ -991,13 +977,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/喵物次元.js"
-        },
-        {
-            "key": "曲奇动漫",
-            "name": "曲奇动漫",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/曲奇动漫.js"
         },
         {
             "key": "妮可动漫",
@@ -1047,6 +1026,13 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/樱花动漫.js"
+        },
+        {
+            "key": "大米动漫",
+            "name": "大米动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/大米动漫.js"
         },
         {
             "key": "暮暮动漫",
