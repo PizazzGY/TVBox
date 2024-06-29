@@ -1017,8 +1017,8 @@
             "key": "动漫巴士",
             "name": "动漫巴士",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/动漫巴士.js"
+            "api": "csp_XBPQ",
+            "ext": "./XBPQ/动漫巴士.json"
         },
         {
             "key": "樱花动漫",
