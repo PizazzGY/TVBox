@@ -1675,6 +1675,16 @@
             "ext": "./XYQHiker/玩偶哥哥.json"
         },
         {
+            "key": "云盘六趣",
+            "name": "云盘｜六趣",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/六趣.json"
+        },
+        {
             "key": "天天开心",
             "name": "云盘｜开心",
             "type": 3,
@@ -1793,16 +1803,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/我的小站.json"
-        },
-        {
-            "key": "云盘六趣",
-            "name": "云盘｜六趣",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/六趣.json"
         },
         {
             "key": "Gitcafe",
