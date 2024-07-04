@@ -640,6 +640,15 @@
             "ext": "./XYQHiker/奇趣影视.json"
         },
         {
+            "key": "蚂蚁资源",
+            "name": "蚂蚁资源",
+            "type": 1,
+            "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
+            "searchable": 1,
+            "changeable": 1,
+            "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url="
+        },
+        {
             "key": "四九资源",
             "name": "四九资源",
             "type": 1,
