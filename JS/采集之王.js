@@ -4,7 +4,8 @@ globalThis.getRandomItem = function (items) {
 var rule = {
     title: '采集之王[合]',
     author: '道长',
-    version: '20240624 beta8',
+    version: '20240703 beta10',
+    update_info: ``,
     host: '',
     homeTid: '',
     homeUrl: '/api.php/provide/vod/?ac=detail&t={{rule.homeTid}}',
@@ -64,6 +65,7 @@ var rule = {
                     type_name: it.name,
                     type_id: it.url,
                     parse_url: it.parse_url || '',
+                    searchable: it.searchable !== 0,
                     api: it.api || '',
                     cate_exclude: it.cate_exclude || '',
                 };
@@ -160,7 +162,7 @@ var rule = {
                 vod_pic: 'https://resource-cdn.tuxiaobei.com/video/FtWhs2mewX_7nEuE51_k6zvg6awl.png',
                 vod_remarks: `版本:${rule.version}`,
                 vod_play_from: '道长在线',
-                vod_play_url: '嗅探播放$https://resource-cdn.tuxiaobei.com/video/10/8f/108fc9d1ac3f69d29a738cdc097c9018.mp4'
+                vod_play_url: '随机小视频$http://api.yujn.cn/api/zzxjj.php',
             };
         } else {
             if (rule.classes) {
@@ -182,9 +184,10 @@ var rule = {
     搜索: $js.toString(() => {
         VODS = [];
         if (rule.classes) {
+            let canSearch = rule.classes.filter(it => it.searchable);
             let page = Number(MY_PAGE);
-            page = (MY_PAGE - 1) % Math.ceil(rule.classes.length / rule.search_limit) + 1;
-            let truePage = Math.ceil(MY_PAGE / Math.ceil(rule.classes.length / rule.search_limit));
+            page = (MY_PAGE - 1) % Math.ceil(canSearch.length / rule.search_limit) + 1;
+            let truePage = Math.ceil(MY_PAGE / Math.ceil(canSearch.length / rule.search_limit));
             if (rule.search_limit) {
                 let start = (page - 1) * rule.search_limit;
                 let end = page * rule.search_limit;
@@ -193,8 +196,8 @@ var rule = {
                 log('start:' + start);
                 log('end:' + end);
                 log('搜索模式:' + searchMode);
-                if (start < rule.classes.length) {
-                    let search_classes = rule.classes.slice(start, end);
+                if (start < canSearch.length) {
+                    let search_classes = canSearch.slice(start, end);
                     let urls = [];
                     search_classes.forEach(it => {
                         let _url = urljoin(it.type_id, input);
