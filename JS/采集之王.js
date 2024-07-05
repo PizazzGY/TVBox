@@ -4,8 +4,8 @@ globalThis.getRandomItem = function (items) {
 var rule = {
     title: '采集之王[合]',
     author: '道长',
-    version: '20240703 beta10',
-    update_info: ``,
+    version: '20240705 beta12',
+    update_info: ``.trim(),
     host: '',
     homeTid: '',
     homeUrl: '/api.php/provide/vod/?ac=detail&t={{rule.homeTid}}',
@@ -25,6 +25,7 @@ var rule = {
     filterable: 1,
     play_parse: true,
     parse_url: '',
+    search_match: false,
     预处理: $js.toString(() => {
         function getClasses(item) {
             let classes = [];
@@ -55,6 +56,11 @@ var rule = {
         }
         let _url = rule.params;
         if (_url && typeof(_url) === 'string' && /^(http|file)/.test(_url)) {
+            if (_url.includes('#')) {
+                let _url_params = _url.split('#');
+                _url = _url_params[0];
+                rule.search_match = !!(_url_params[1]);
+            }
             let html = request(_url);
             let json = JSON.parse(html);
             let _classes = [];
@@ -228,7 +234,12 @@ var rule = {
                                         i.vod_id = it.type_id + '$' + i.vod_id;
                                         i.vod_remarks = i.vod_remarks + '|' + it.type_name;
                                     });
-                                    results = results.concat(data);
+                                    if (rule.search_match) {
+                                        data = data.filter(item => item.vod_name && (new RegExp(KEY, 'i')).test(item.vod_name))
+                                    }
+                                    if (data.length > 0) {
+                                        results = results.concat(data);
+                                    }
                                 } catch (e) {
                                     log(`请求:${it.type_id}发生错误:${e.message}`)
                                 }
@@ -245,6 +256,12 @@ var rule = {
                                     i.vod_id = it.type_id + '$' + i.vod_id;
                                     i.vod_remarks = i.vod_remarks + '|' + it.type_name;
                                 });
+                                if (rule.search_match) {
+                                    data = data.filter(item => item.vod_name && (new RegExp(KEY, 'i')).test(item.vod_name))
+                                }
+                                if (data.length > 0) {
+                                    results = results.concat(data);
+                                }
                                 results = results.concat(data);
                             } catch (e) {
                                 log(`请求:${it.type_id}发生错误:${e.message}`)
@@ -283,6 +300,4 @@ var rule = {
             } else {
                 input = parse_url + input;
             }
-        }
-    }),
-}
+ 
