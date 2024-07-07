@@ -228,16 +228,6 @@
             "filterable": 1
         },
         {
-            "key": "Voflix",
-            "name": "Voflix",
-            "type": 3,
-            "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.voflix.fun/"
-        },
-        {
             "key": "兄弟影视",
             "name": "兄弟影视",
             "type": 3,
@@ -266,14 +256,6 @@
             "name": "腐剧视频",
             "type": 3,
             "api": "csp_WexFujutv",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "文才影视",
-            "name": "文才影视",
-            "type": 3,
-            "api": "csp_Wexwencai",
             "searchable": 1,
             "changeable": 1
         },
