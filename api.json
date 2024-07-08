@@ -92,26 +92,6 @@
             "filterable": 1
         },
         {
-            "key": "厂长资源",
-            "name": "厂长资源",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://czzy.top/"
-        },
-        {
-            "key": "低端影视",
-            "name": "低端影视",
-            "type": 3,
-            "api": "csp_Ddys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ddys.pro/"
-        },
-        {
             "key": "快看影视",
             "name": "快看影视｜快",
             "type": 3,
@@ -214,6 +194,26 @@
             "api": "csp_Wexyuyueys",
             "searchable": 1,
             "changeable": 1
+        },
+        {
+            "key": "厂长资源",
+            "name": "厂长资源",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://czzy.top/"
+        },
+        {
+            "key": "低端影视",
+            "name": "低端影视",
+            "type": 3,
+            "api": "csp_Ddys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ddys.pro/"
         },
         {
             "key": "采集之王",
