@@ -33,16 +33,7 @@
             },
             "jar": "./danmu.jar;md5;5d503b9413e2f2ab1eb547980b170417"
         },
-        {
-            "key": "韩小圈",
-            "name": "韩小圈",
-            "type": 3,
-            "api": "csp_HanXiaoQuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./danmu.jar;md5;5d503b9413e2f2ab1eb547980b170417"
-        },
+
         {
             "key": "无忧短剧",
             "name": "无忧短剧",
@@ -115,7 +106,8 @@
             "api": "csp_Ddys",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://ddys.pro"
         },
         {
             "key": "快看影视",
