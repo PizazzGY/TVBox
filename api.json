@@ -35,23 +35,17 @@
         },
 
         {
-            "key": "无忧短剧",
-            "name": "无忧短剧",
+            "key": "酷看弹幕",
+            "name": "酷看|快",
             "type": 3,
-            "api": "csp_Duanj",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "./danmu.jar;md5;5d503b9413e2f2ab1eb547980b170417"
-        },
-        {
-            "key": "采集之王",
-            "name": "采集之王",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
+            "api": "csp_Kkys",
             "searchable": 1,
             "quickSearch": 1,
-            "order_num": 142,
-            "ext": "./JS/采集之王.js?type=url&params=./JSON/采集静态.json$1$1"
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar;md5;5d503b9413e2f2ab1eb547980b170417"
         },
         {
             "key": "南瓜影视",
@@ -97,7 +91,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.czys.pro/"
+            "ext": "https://www.czzy.top"
         },
         {
             "key": "低端影视",
@@ -164,14 +158,7 @@
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "酷看影视",
-            "name": "酷看影视",
-            "type": 3,
-            "api": "csp_Wexkukantv",
-            "searchable": 1,
-            "changeable": 1
-        },
+
         {
             "key": "明日影视",
             "name": "明日影视",
@@ -230,6 +217,16 @@
             "changeable": 1
         },
         {
+            "key": "采集之王",
+            "name": "采集之王",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "order_num": 142,
+            "ext": "./JS/采集之王.js?type=url&params=./JSON/采集静态.json$1$1"
+        },
+        {
             "key": "精品短剧",
             "name": "精品短剧",
             "type": 3,
@@ -244,6 +241,15 @@
             "api": "csp_Wexduanjuvip",
             "searchable": 1,
             "changeable": 1
+        },
+        {
+            "key": "无忧短剧",
+            "name": "无忧短剧",
+            "type": 3,
+            "api": "csp_Duanj",
+            "searchable": 1,
+            "changeable": 0,
+            "jar": "./danmu.jar;md5;5d503b9413e2f2ab1eb547980b170417"
         },
         {
             "key": "看看影视",
@@ -526,19 +532,7 @@
             },
             "jar": "./danmu.jar;md5;5d503b9413e2f2ab1eb547980b170417"
         },
-        {
-            "key": "酷看弹幕",
-            "name": "弹幕｜酷看|快",
-            "type": 3,
-            "api": "csp_Kkys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar;md5;5d503b9413e2f2ab1eb547980b170417"
-        },
+
         {
             "key": "厂长弹幕",
             "name": "弹幕｜厂长",
