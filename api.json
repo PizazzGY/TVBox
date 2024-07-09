@@ -93,7 +93,7 @@
         },
         {
             "key": "快看影视",
-            "name": "快看影视｜快",
+            "name": "快看｜有广告",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
