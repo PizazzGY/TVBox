@@ -63,6 +63,26 @@
             "ext": "./JS/采集之王.js?type=url&params=./JSON/采集静态.json$1$1"
         },
         {
+            "key": "路人甲一",
+            "name": "路人甲一",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": " http://dh.li0580.com/api.php/app/"
+        },
+        {
+            "key": "路人甲二",
+            "name": "路人甲二",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": " http://122.228.84.103:5825/api.php/app/"
+        },
+        {
             "key": "南瓜影视",
             "name": "南瓜影视",
             "type": 3,
@@ -1831,6 +1851,31 @@
             "name": "聚合",
             "type": 3,
             "url": "Demo"
+        },
+        {
+            "name": "推荐1",
+            "url": "http://jx.li0580.com/home/api?type=ys&uid=2712055&key=abceghmtEFGOQTWXY2&url=",
+            "type": "1"
+        },
+        {
+            "name": "推荐2",
+            "url": "https://ldhz.li0580.com//api/jsonindex.php/?key=rcXQsB0ijCuYJl0p0f&url=",
+            "type": "1"
+        },
+        {
+            "name": "推荐3",
+            "url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=",
+            "type": "1"
+        },
+        {
+            "name": "推荐4",
+            "url": "http://122.228.84.103:7777/api/?key=J3RDcpC4cTTSrpyEeD&url=",
+            "type": "1"
+        },
+        {
+            "name": "推荐5",
+            "url": "https://jx.huohua.vip/api/?key=Ea1nPrTOcNUChM7oRB&url=",
+            "type": "1"
         },
         {
             "name": "线路1",
