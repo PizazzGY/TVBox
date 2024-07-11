@@ -1748,6 +1748,16 @@
             "ext": "./XYQHiker/多多影音.json"
         },
         {
+            "key": "云盘蜡笔",
+            "name": "云盘｜蜡笔",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/蜡笔.json"
+        },
+        {
             "key": "云盘搜索",
             "name": "云盘｜搜索",
             "type": 3,
