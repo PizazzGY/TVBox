@@ -1298,6 +1298,22 @@
             "jar": "./danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
+            "key": "弹幕｜蜡笔",
+            "name": "弹幕｜蜡笔",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "site": "https://duopan.fun",
+                "danmu": true
+            },
+            "jar": "http://127.0.0.1:9978/file/TVBoxOSC/本地仓/danmu.jar"
+        },
+        {
             "key": "夸克团长弹幕",
             "name": "弹幕｜团长",
             "type": 3,
