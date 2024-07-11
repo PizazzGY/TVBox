@@ -1298,7 +1298,7 @@
             "jar": "./danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
-            "key": "蜡笔弹幕",
+            "key": "夸克蜡笔弹幕",
             "name": "弹幕｜蜡笔",
             "type": 3,
             "api": "csp_Wobg",
