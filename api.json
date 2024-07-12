@@ -82,6 +82,13 @@
             "ext": " http://122.228.84.103:5825/api.php/app/"
         },
         {
+            "key": "桃子影视",
+            "name": "桃子影视",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/桃子影视.js"
+        },
+        {
             "key": "南瓜影视",
             "name": "南瓜影视",
             "type": 3,
