@@ -1814,6 +1814,16 @@
             "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
         },
         {
+            "key": "阿里苏苏",
+            "name": "云盘｜苏苏",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/阿里苏苏.json"
+        },
+        {
             "key": "云盘论坛",
             "name": "云盘｜论坛",
             "type": 3,
