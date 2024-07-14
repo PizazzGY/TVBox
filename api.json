@@ -82,6 +82,16 @@
             "ext": " http://122.228.84.103:5825/api.php/app/"
         },
         {
+            "key": "追忆影视",
+            "name": "追忆影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://110.42.7.101:1122/api.php/app/"
+        },
+        {
             "key": "桃子影视",
             "name": "桃子影视",
             "type": 3,
@@ -1942,6 +1952,31 @@
             "status": "normal",
             "type_text": "Type 1",
             "status_text": "正常"
+        },
+        {
+            "name": "推荐6",
+            "url": "http://115.231.220.36:8801/jx/tvbox/zyy.php?url=",
+            "type": 1,
+            "ext": {
+                "flag": [
+                    "youku",
+                    "qq",
+                    "qiyi",
+                    "bilibili",
+                    "mgtv",
+                    "pptv",
+                    "xigua",
+                    "xiguatv",
+                    "mytv",
+                    "dsj",
+                    "FYNB",
+                    "NBY",
+                    "BTJSON"
+                ],
+                "header": {
+                    "User-Agent": "Dalvik/2.1.0"
+                }
+            }
         },
         {
             "name": "线路1",
