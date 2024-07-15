@@ -2,7 +2,7 @@
 
 在线源订阅地址：
 
-https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
+https://github.moeyy.xyz/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
 
 https://gitdl.cn/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
 
