@@ -20,15 +20,6 @@
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
         },
-		{"key":"Libvio",
-            "name":"LIBVIO|网盘",
-            "type":3,"api":"csp_Libvio",
-            "quickSearch":1, 
-            "changeable":1, 
-            "filterable":1, 
-            "timeout":60,
-            "ext":"https://gitlab.com/duomv/duo/-/raw/main/lib/tokenm.json$$$https://www.libvio.fun/$$$null"
-        },
         {
             "key": "配置中心",
             "name": "配置中心",
@@ -56,6 +47,17 @@
             },
             "jar": "./danmu.jar;md5;5d503b9413e2f2ab1eb547980b170417"
         },
+	{"key":"Libvio",
+            "name":"LIBVIO|网盘",
+            "type":3,"api":"csp_Libvio",
+            "quickSearch":1, 
+            "changeable":1, 
+            "filterable":1, 
+            "timeout":60,
+            "ext":"https://gitlab.com/duomv/duo/-/raw/main/lib/tokenm.json$$$https://www.libvio.fun/$$$null"
+	    "jar": "https://gitlab.com/duomv/duo/-/raw/main/pg.jar"
+        },
+	    
         {
             "key": "南瓜影视",
             "name": "南瓜影视｜快",
