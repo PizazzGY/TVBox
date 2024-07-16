@@ -52,6 +52,23 @@
             "api": "csp_Duanj",
             "searchable": 1,
             "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "jar": "./danmu.jar;md5;ef899b3f9babf606e653cb735a70cfac"
+        },
+        {
+            "key": "在线短剧",
+            "name": "在线短剧",
+            "type": 3,
+            "api": "csp_Duanju",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
             "jar": "./danmu.jar;md5;ef899b3f9babf606e653cb735a70cfac"
         },
         {
