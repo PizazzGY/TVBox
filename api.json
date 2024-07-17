@@ -1491,7 +1491,8 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt"
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "danmu": true
             },
             "jar": "./danmu.jar;md5;ef899b3f9babf606e653cb735a70cfac"
         },
