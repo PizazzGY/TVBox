@@ -1,14 +1,10 @@
-# 注：即将删除普通云盘资源，只保留弹幕云盘资源，同时普通云盘资源的历史记录也会被删除，云盘登录改为弹窗
-
 # TVBox自用资源
 
 在线源订阅地址：
 
 https://github.moeyy.xyz/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
 
-https://gitdl.cn/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
-
-阿里云盘资源使用方法：豆瓣/主页→云盘登录→使用阿里云盘app扫描二维码
+https://gh.xxooo.cf/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
 
 “本地资源”自定义主页logo（影视2.3.4-即将更新、Easybox1.3.5）
 位置：根目录/TVBox/logo.png
