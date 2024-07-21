@@ -69,16 +69,6 @@
             "ext": "./JS/采集之王.js?type=url&params=./JSON/采集静态.json$1$1"
         },
         {
-            "key": "路人甲一",
-            "name": "路人甲一",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": " http://dh.li0580.com/api.php/app/"
-        },
-        {
             "key": "路人甲二",
             "name": "路人甲二",
             "type": 3,
@@ -87,23 +77,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": " http://122.228.84.103:5825/api.php/app/"
-        },
-        {
-            "key": "追忆影视",
-            "name": "追忆影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://110.42.7.101:1122/api.php/app/"
-        },
-        {
-            "key": "桃子影视",
-            "name": "桃子影视",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/桃子影视.js"
         },
         {
             "key": "南瓜影视",
@@ -371,22 +344,6 @@
             "name": "愉悦影视",
             "type": 3,
             "api": "csp_Wexyuyueys",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "花蕊影视",
-            "name": "花蕊影视",
-            "type": 3,
-            "api": "csp_Wexhuaruitv",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "精品短剧",
-            "name": "精品短剧",
-            "type": 3,
-            "api": "csp_Wexvipduanju",
             "searchable": 1,
             "changeable": 1
         },
@@ -1783,69 +1740,12 @@
             "url": "Demo"
         },
         {
-            "name": "推荐1",
-            "url": "http://jx.li0580.com/home/api?type=ys&uid=2712055&key=ehknxBCFGIKLMUVXZ5&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
-        {
-            "name": "推荐2",
-            "url": "https://ldhz.li0580.com//api/jsonindex.php/?key=7Dtvavu8iDUkd1vRxC&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
-        {
-            "name": "推荐3",
+            "name": "推荐",
             "url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=",
             "type": "1",
             "status": "normal",
             "type_text": "Type 1",
             "status_text": "正常"
-        },
-        {
-            "name": "推荐4",
-            "url": "http://122.228.84.103:7777/api/?key=J3RDcpC4cTTSrpyEeD&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
-        {
-            "name": "推荐5",
-            "url": "http://110.40.61.123:7777/api/?key=5r77owG0IxkmKBXli9&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
-        {
-            "name": "推荐6",
-            "url": "http://115.231.220.36:8801/jx/tvbox/zyy.php?url=",
-            "type": 1,
-            "ext": {
-                "flag": [
-                    "youku",
-                    "qq",
-                    "qiyi",
-                    "bilibili",
-                    "mgtv",
-                    "pptv",
-                    "xigua",
-                    "xiguatv",
-                    "mytv",
-                    "dsj",
-                    "FYNB",
-                    "NBY",
-                    "BTJSON"
-                ],
-                "header": {
-                    "User-Agent": "Dalvik/2.1.0"
-                }
-            }
         },
         {
             "name": "线路1",
