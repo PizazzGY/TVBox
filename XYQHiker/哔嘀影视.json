@@ -55,7 +55,7 @@
     "分类片单链接加前缀": "https://www.yjys01.com",
     "分类片单链接加后缀": "",
     "搜索请求头参数": "User-Agent$手机#Referer$https://cn.bing.com/",
-    "搜索链接": "https://cn.bing.com/search?q={wd}+site:https://www.yjys01.com&qs=ds&form=QBRE",
+    "搜索链接": "https://cn.bing.com/search?q=site:www.yjys02.com/ {wd}&qs=ds&form=QBRE",
     "POST请求数据": "",
     "搜索截取模式": "1",
     "搜索列表数组规则": "ol#b_results&&li.b_algo",
