@@ -298,8 +298,8 @@
             "changeable": 1
         },
         {
-            "key": "利播影视",
-            "name": "利播影视",
+            "key": "立播影视",
+            "name": "立播影视",
             "type": 3,
             "api": "csp_Wexlibhd",
             "searchable": 1,
@@ -1088,7 +1088,7 @@
         },
         {
             "key": "立播弹幕",
-            "name": "立播弹幕",
+            "name": "弹幕｜立播",
             "type": 3,
             "api": "csp_Libvio",
             "searchable": 1,
