@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar;md5;f78f6f66df4f43641bd81e88b646d385",
+    "spider": "./spider.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -152,16 +152,6 @@
             "filterable": 1
         },
         {
-            "key": "胖虎影视",
-            "name": "胖虎影视",
-            "type": 3,
-            "api": "csp_Panghu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://physvod.com"
-        },
-        {
             "key": "剧圈影视",
             "name": "剧圈影视",
             "type": 3,
@@ -169,16 +159,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "忍者影视",
-            "name": "忍者影视",
-            "type": 3,
-            "api": "csp_AppRZ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://rzys.xyz/"
         },
         {
             "key": "毛驴影视",
@@ -208,15 +188,6 @@
             "filterable": 1
         },
         {
-            "key": "视觉影视",
-            "name": "视觉影视",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "疯狗影视",
             "name": "疯狗影视",
             "type": 3,
@@ -226,10 +197,37 @@
             "filterable": 1
         },
         {
-            "key": "耐看影视",
-            "name": "耐看影视",
+            "key": "全网影视",
+            "name": "全网影视",
             "type": 3,
-            "api": "csp_Nkdy",
+            "api": "csp_Quanwk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "最新影视",
+            "name": "最新影视",
+            "type": 3,
+            "api": "csp_Zx1080",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "爱看影视",
+            "name": "爱看影视",
+            "type": 3,
+            "api": "csp_Ikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "桃子影视",
+            "name": "桃子影视",
+            "type": 3,
+            "api": "csp_Taozi",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -448,6 +446,15 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://vidhub1.cc"
+        },
+        {
+            "key": "达达龟",
+            "name": "达达龟",
+            "type": 3,
+            "api": "csp_Dadag",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "素白白",
