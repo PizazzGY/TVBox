@@ -69,16 +69,6 @@
             "ext": "./JS/采集之王.js?type=url&params=./JSON/采集静态.json$1$1"
         },
         {
-            "key": "路人甲二",
-            "name": "路人甲二",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": " http://122.228.84.103:5825/api.php/app/"
-        },
-        {
             "key": "南瓜影视",
             "name": "南瓜影视",
             "type": 3,
