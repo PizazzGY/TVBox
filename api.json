@@ -102,7 +102,8 @@
             "api": "csp_AppZJ",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "http://z.kzjtv.com/"
         },
         {
             "key": "厂长资源",
