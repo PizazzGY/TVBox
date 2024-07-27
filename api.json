@@ -1460,7 +1460,7 @@
             "jar": "./danmu.jar;md5;df2357f95904cac4f6eb25765a6917a7"
         },
         {
-            "key": "夸搜",
+            "key": "夸搜弹幕",
             "name": "弹幕｜夸搜",
             "type": 3,
             "api": "csp_Qkso",
