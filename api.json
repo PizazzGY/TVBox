@@ -1199,7 +1199,7 @@
         },
         {
             "key": "玩偶弹幕",
-            "name": "弹幕｜玩偶",
+            "name": "弹幕｜玩偶哥哥",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -1215,8 +1215,8 @@
             "jar": "./danmu.jar;md5;df2357f95904cac4f6eb25765a6917a7"
         },
         {
-            "key": "六趣弹幕",
-            "name": "弹幕｜六趣",
+            "key": "玩偶备用弹幕",
+            "name": "弹幕｜玩偶备用",
             "type": 3,
             "api": "csp_Wogg",
             "quickSearch": 1,
@@ -1225,14 +1225,14 @@
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "site": "https://cms.715d.com",
+                "site": "https://wogg.xxooo.cf",
                 "danmu": true
             },
             "jar": "./danmu.jar;md5;df2357f95904cac4f6eb25765a6917a7"
         },
         {
             "key": "夸克玩偶弹幕",
-            "name": "弹幕｜玩偶",
+            "name": "弹幕｜玩偶表哥",
             "type": 3,
             "api": "csp_Wobg",
             "searchable": 1,
