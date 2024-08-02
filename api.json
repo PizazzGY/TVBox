@@ -551,13 +551,6 @@
             "ext": "./JS/哔哩视频.js"
         },
         {
-            "key": "乐鱼影视",
-            "name": "乐鱼｜影视",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/乐鱼影视.js"
-        },
-        {
             "key": "碟调影视",
             "name": "碟调｜影视",
             "type": 3,
@@ -570,13 +563,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/欧帝影院.js"
-        },
-        {
-            "key": "金曼影视",
-            "name": "金曼｜影视",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/金曼影视.js"
         },
         {
             "key": "畅梦影视",
@@ -604,26 +590,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/子子影视.json"
-        },
-        {
-            "key": "电影盒子",
-            "name": "盒子｜影视",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/电影盒子.json"
-        },
-        {
-            "key": "歪片星球",
-            "name": "歪片｜影视",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/歪片星球.json"
         },
         {
             "key": "奇趣影视",
