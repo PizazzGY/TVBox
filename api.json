@@ -1148,6 +1148,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
+                "site": "https://www.yjys01.com",
                 "danmu": true
             },
             "jar": "./danmu.jar;md5;ed6d20f8cf64d14f1efc46caa3c0f474"
