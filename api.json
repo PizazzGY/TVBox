@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
+    "spider": "./spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -8,6 +8,12 @@
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
+        },
+        {
+            "key": "本地",
+            "name": "本地｜视频",
+            "type": 3,
+            "api": "csp_LocalFile"
         },
         {
             "key": "配置中心",
