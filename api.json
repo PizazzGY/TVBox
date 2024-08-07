@@ -57,13 +57,23 @@
         },
         {
             "key": "韩小圈",
-            "name": "韩圈｜APP",
+            "name": "韩小圈｜APP",
             "type": 3,
             "api": "csp_HanXiaoQuan",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "jar": "./danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+        },
+        {
+            "key": "新感觉",
+            "name": "新感觉｜APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://43.248.100.147:9891/api.php/app/"
         },
         {
             "key": "南瓜影视",
@@ -1775,11 +1785,144 @@
         },
         {
             "name": "推荐",
-            "url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=",
             "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
+            "url": "http://43.248.100.147:1122/bba/json.php?url=",
+            "flag": [
+                "BBA"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            }
+        },
+        {
+            "name": "推荐1",
+            "type": "1",
+            "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
+            "flag": [
+                "NBY"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            }
+        },
+        {
+            "name": "推荐2",
+            "type": "1",
+            "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
+            "flag": [
+                "LXTX"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            }
+        },
+        {
+            "name": "推荐3",
+            "type": "1",
+            "url": "http://110.40.39.158:5000/api/jiexi/common?Key=7idBzIqEEFyf4AYYXt&url=",
+            "flag": [
+                "BTOL"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            }
+        },
+        {
+            "name": "推荐4",
+            "type": "1",
+            "url": "http://110.42.7.182:881/api/?key=KzBLknjaz7nv2de8Yn&url=",
+            "flag": [
+                "4kvip"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            }
+        },
+        {
+            "name": "推荐5",
+            "type": "1",
+            "url": "http://110.42.7.182:881/api/?key=KzBLknjaz7nv2de8Yn&url=",
+            "flag": [
+                "nmys"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            }
+        },
+        {
+            "name": "推荐6",
+            "type": "1",
+            "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=",
+            "flag": [
+                "m78"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            }
+        },
+        {
+            "name": "推荐7",
+            "type": "1",
+            "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=",
+            "flag": [
+                "mytv"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            }
+        },
+        {
+            "name": "推荐8",
+            "type": "1",
+            "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
+            "flag": [
+                "youku",
+                "qq",
+                "qiyi",
+                "bilibili",
+                "mgtv",
+                "pptv",
+                "xigua"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            }
+        },
+        {
+            "name": "推荐9",
+            "type": "1",
+            "url": "http://43.248.100.147:1122/XGJ/keyef2f3dc4asd1fd564f132asc2asd1f.php?url=",
+            "flag": [
+                "youku",
+                "qq",
+                "qiyi",
+                "bilibili",
+                "mgtv",
+                "pptv",
+                "xigua",
+                "NBY",
+                "ETH-",
+                "mytv",
+                "nmys",
+                "BTOL",
+                "caihongyun",
+                "4kvip",
+                "m78"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            }
+        },
+        {
+            "name": "推荐10",
+            "type": "1",
+            "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=",
+            "flag": [
+                "yhdm"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            }
         },
         {
             "name": "线路1",
