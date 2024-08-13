@@ -18,13 +18,5 @@ https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main
 
 注：如果出现弹幕无法加载或加载失败的问题，清理软件数据，并重新配置即可解决。
 
-# TVBox系列软件
-
-https://www.123pan.com/s/sPNbVv-67SXv
-
-# 抖音：1945846073   感谢关注
-
-![本人抖音](https://github.com/PizazzGY/TVBox/assets/78096245/b27d5227-2ad5-48e5-8007-a2918c4078b4)
-
 ![组队测速领UC网盘永久容量](https://github.com/user-attachments/assets/675e7579-b867-42e6-ba9a-f25804c3015e)
 
