@@ -1571,16 +1571,6 @@
             "ext": "./XYQHiker/电影港.json"
         },
         {
-            "key": "好恐怖",
-            "name": "好恐怖｜磁力",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XBPQ/好恐怖.json"
-        },
-        {
             "key": "小白网",
             "name": "小白网｜磁力",
             "type": 3,
