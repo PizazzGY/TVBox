@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
+    "spider": "./spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -283,7 +283,7 @@
             "key": "兄弟影视",
             "name": "兄弟｜影视",
             "type": 3,
-            "api": "csp_Wexxiongdiys",
+            "api": "csp_Xdys",
             "searchable": 1,
             "changeable": 1
         },
