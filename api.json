@@ -76,6 +76,28 @@
             "ext": "http://43.248.100.147:9891/api.php/app/"
         },
         {
+            "key": "六六六",
+            "name": "六六六｜APP",
+            "playerType": 1,
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": " http://122.228.85.203:1000/api.php/app/"
+        },
+        {
+            "key": "丘丘影视",
+            "name": "丘丘｜APP",
+            "playerType": 1,
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": " http://111.173.115.204:2211/api.php/app/"
+        },
+        {
             "key": "南瓜影视",
             "name": "南瓜｜APP",
             "type": 3,
@@ -1739,6 +1761,16 @@
             "name": "聚合",
             "type": 3,
             "url": "Demo"
+        },
+        {
+            "name": "666专线",
+            "url": "http://122.228.85.203:7979/api/?key=e5ef7605633990b8d99ee1bfae196786&url=",
+            "type": "1"
+        },
+        {
+            "name": "QQ专线",
+            "url": "http://122.228.85.203:6789/api/?key=2b1654027ff6d809cefbc6001166d35a&url=",
+            "type": "1"
         },
         {
             "name": "XGJ专线",
