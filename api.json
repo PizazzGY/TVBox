@@ -153,42 +153,6 @@
             "changeable": 1
         },
         {
-            "key": "NMSDS",
-            "name": "NMSDS｜切",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id24",
-            "playUrl": "json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="
-        },
-        {
-            "key": "SBSDS",
-            "name": "SBSDS｜切",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id25",
-            "playUrl": "json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="
-        },
-        {
-            "key": "DMSDS",
-            "name": "DMSDS｜切",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id26",
-            "playUrl": "json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="
-        },
-        {
-            "key": "WPSDS",
-            "name": "WPSDS｜切",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id27",
-            "playUrl": "json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="
-        },
-        {
             "key": "采集之王",
             "name": "采集｜合集",
             "type": 3,
