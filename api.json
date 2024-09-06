@@ -288,14 +288,6 @@
             "changeable": 1
         },
         {
-            "key": "酷看影视",
-            "name": "酷看｜影视",
-            "type": 3,
-            "api": "csp_Wexkukantv",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "明日影视",
             "name": "明日｜影视",
             "type": 3,
@@ -967,19 +959,6 @@
             "name": "南瓜｜弹幕",
             "type": 3,
             "api": "csp_Nangua",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d"
-        },
-        {
-            "key": "酷看弹幕",
-            "name": "酷看｜弹幕",
-            "type": 3,
-            "api": "csp_Kkys",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
