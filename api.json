@@ -1445,15 +1445,14 @@
             }
         },
         {
-            "key": "荐片",
+            "key": "荐片磁力",
             "name": "荐片｜磁力",
             "type": 3,
-            "api": "csp_JianPian",
+            "api": "csp_Jianpian",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://api2.rinhome.com"
+            "filterable": 1
         },
         {
             "key": "New6v",
