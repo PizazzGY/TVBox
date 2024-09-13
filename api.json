@@ -1,5 +1,5 @@
 {
-    "spider": "https://i-930.wwentua.com:446/09131000199742029bb/2024/09/13/99b70acb9041327aeaf439eaf3518661.zip?st=GzB-2e7PGFfp7B4rbntQ7Q&e=1726197644&b=BSQMfAlgA2IAMAImUiwGeFRoWnY_c&fi=199742029&pid=111-47-247-174&up=2&mp=1&co=0;md5;4adf1d5aa5fe3706001804de9c74600a",
+    "spider": "./spider.jar;md5;4adf1d5aa5fe3706001804de9c74600a",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
