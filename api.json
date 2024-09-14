@@ -125,26 +125,34 @@
             "ext": "http://43.248.100.147:9891/api.php/app/"
         },
         {
-            "key": "六六六",
-            "name": "六六六｜APP",
-            "playerType": 1,
+            "key": "追剧猫",
+            "name": "追剧猫｜APP",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": " http://122.228.85.203:1000/api.php/app/"
+            "ext": "https://jingxiang.lingutv.cn/api.php/app/"
+        },
+        {
+            "key": "酷影视",
+            "name": "酷影视｜APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
         {
             "key": "丘丘影视",
             "name": "丘丘｜APP",
-            "playerType": 1,
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": " http://111.173.115.204:2211/api.php/app/"
+            "ext": "http://111.173.115.204:2211/api.php/app/"
         },
         {
             "key": "南瓜影视",
@@ -2067,6 +2075,12 @@
             "name": "直播3",
             "type": 0,
             "url": "https://tv.iill.top/m3u/Gather",
+            "playerType": 1
+        },
+        {
+            "name": "直播4",
+            "type": 0,
+            "url": "http://mmitv.top/pltv/merization.php?id=list&user=t0k1b5&token=17af41bb&text=diypbox",
             "playerType": 1
         }
     ],
