@@ -476,13 +476,6 @@
             "ext": "./JS/茶杯狐.js"
         },
         {
-            "key": "在线之家",
-            "name": "在线｜影视",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/在线之家.js"
-        },
-        {
             "key": "魔力高清",
             "name": "魔力｜影视",
             "type": 3,
@@ -530,13 +523,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/碟调影视.js"
-        },
-        {
-            "key": "欧帝影院",
-            "name": "欧帝｜影视",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/欧帝影院.js"
         },
         {
             "key": "畅梦影视",
