@@ -1697,6 +1697,11 @@
             }
         },
         {
+            "name": "推荐2",
+            "type": 1,
+            "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+        },
+        {
             "name": "线路1",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
