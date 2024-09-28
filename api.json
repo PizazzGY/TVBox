@@ -798,6 +798,13 @@
             ]
         },
         {
+            "key": "56动漫",
+            "name": "56｜动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/56动漫.js"
+        },
+        {
             "key": "58动漫",
             "name": "58｜动漫",
             "type": 3,
@@ -817,6 +824,13 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/Anime1.js"
+        },
+        {
+            "key": "动画片",
+            "name": "动画片｜动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/动画片大全.js"
         },
         {
             "key": "路漫漫",
@@ -852,20 +866,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/异世界.js"
-        },
-        {
-            "key": "次元城",
-            "name": "次元城｜动漫",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/次元城.js"
-        },
-        {
-            "key": "喵物次元",
-            "name": "喵物｜动漫",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/喵物次元.js"
         },
         {
             "key": "奇米动漫",
@@ -908,20 +908,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/大米动漫.js"
-        },
-        {
-            "key": "维奇动漫",
-            "name": "维奇｜动漫",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/维奇动漫.js"
-        },
-        {
-            "key": "暮暮动漫",
-            "name": "暮暮｜动漫",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/暮暮动漫.js"
         },
         {
             "key": "南瓜弹幕",
