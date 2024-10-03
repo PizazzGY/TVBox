@@ -37,28 +37,6 @@
         },
 
         {
-            "key": "酷看弹幕",
-            "name": "酷看|快",
-            "type": 3,
-            "api": "csp_Kkys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar;md5;5d503b9413e2f2ab1eb547980b170417"
-        },
-        {
-            "key": "南瓜影视",
-            "name": "南瓜影视｜快",
-            "type": 3,
-            "api": "csp_WexNgys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
             "key": "农民影视",
             "name": "农民影视｜快",
             "type": 3,
@@ -85,15 +63,6 @@
             "filterable": 1
         },
         {
-            "key": "追剧影视",
-            "name": "追剧影视｜快",
-            "type": 3,
-            "api": "csp_AppZJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "快看影视",
             "name": "快看｜有广告",
             "type": 3,
@@ -113,24 +82,15 @@
         },
 
         {
-            "key": "剧圈影视",
-            "name": "剧圈影视",
+            "key": "南瓜影视",
+            "name": "南瓜影视",
             "type": 3,
-            "api": "csp_Juqq",
+            "api": "csp_WexNgys",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0
         },
 
-        {
-            "key": "可可影视",
-            "name": "可可影视",
-            "type": 3,
-            "api": "csp_Keke",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key": "FreeOK",
             "name": "FreeOK",
@@ -139,14 +99,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "兄弟影视",
-            "name": "兄弟影视",
-            "type": 3,
-            "api": "csp_Wexxiongdiys",
-            "searchable": 1,
-            "changeable": 1
         },
 
         {
