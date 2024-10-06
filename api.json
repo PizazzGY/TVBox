@@ -1951,12 +1951,6 @@
             "type": 0,
             "url": "https://tv.iill.top/m3u/Gather",
             "playerType": 1
-        },
-        {
-            "name": "直播4",
-            "type": 0,
-            "url": "http://mmitv.top/pltv/merization.php?id=list&user=t0k1b5&token=17af41bb&text=diypbox",
-            "playerType": 1
         }
     ],
     "flags": [
