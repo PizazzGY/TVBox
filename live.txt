@@ -310,7 +310,7 @@ CGTN阿语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTe
 
 CHC动作电影,http://dd.ddzb.fun/php/gzyx.php?id=30b1cc920430d3264e4b053d78bacabf
 CHC家庭影院,http://dd.ddzb.fun/php/gzyx.php?id=548e8018101d7fa134d91615728a5a93
-CHC高清电影,http://dd.ddzb.fun/php/gzyx.php?id=f1f8aab0fd04f1cf17ba7ebcf67b06e0
+CHC影迷电影,http://dd.ddzb.fun/php/gzyx.php?id=f1f8aab0fd04f1cf17ba7ebcf67b06e0
 
 卫视频道,#genre#
 安徽卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
