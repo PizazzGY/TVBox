@@ -135,6 +135,16 @@
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
         {
+            "key": "新感觉",
+            "name": "新感觉｜APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://43.248.100.147:9892/api.php/app/"
+        },
+        {
             "key": "南瓜影视",
             "name": "南瓜｜APP",
             "type": 3,
@@ -1675,9 +1685,140 @@
             }
         },
         {
-            "name": "推荐4K",
-            "type": 1,
-            "url": "http://jx.jwl.icu/jx.php?url="
+            "name": "XG蓝光",
+            "url": "http://43.248.100.147:6068/bba/xgjjiexi.php?url=",
+            "flag": [
+                "BBA"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "XM蓝光",
+            "url": "http://121.62.61.51:6888/api/?key=wyn1txZX5RKA2kVFUX&url=",
+            "flag": [
+                "NBY"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "MX蓝光",
+            "url": "http://122.51.15.119:1234/home/api?type=ys&cc=&uid=52565&key=bfhorsvAEGHMRV3469&url=",
+            "flag": [
+                "MXTV"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "LX蓝光",
+            "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
+            "flag": [
+                "LXTX"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "TX蓝光",
+            "url": "http://43.248.100.147:9527/jx.php?url=",
+            "flag": [
+                "TX"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "MY蓝光",
+            "url": "http://zy.uiovo.com/api/?key=85907fa019f741cdf0e0a15ec078ca0a&ud=113&url=",
+            "flag": [
+                "mytv",
+                "nmys",
+                "yhdm"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "BN蓝光",
+            "url": "http://43.248.128.138:1111/home/api?type=ys&uid=3085188&key=egioqrtxzABORUW269&url=",
+            "flag": [
+                "BNNB"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "DJ专线",
+            "url": "http://jx.voooe.cn/api/?key=aa70f97f8c109a3c6937ea27a98da6e0&url=",
+            "flag": [
+                "duanju"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "XGJ官解",
+            "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/gg.php?url=",
+            "flag": [
+                "youku",
+                "qq",
+                "qiyi",
+                "bilibili",
+                "mgtv",
+                "sohu",
+                "letv",
+                "xigua"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "XGJ聚合",
+            "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/k.php?url=",
+            "flag": [
+                "youku",
+                "qq",
+                "qiyi",
+                "bilibili",
+                "mgtv",
+                "pptv",
+                "xigua",
+                "NBY",
+                "ETH-",
+                "BBA",
+                "LXTX",
+                "TX",
+                "MXTV",
+                "mytv",
+                "nmys",
+                "yhdm",
+                "BNNB",
+                "duanju"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
         },
         {
             "name": "线路1",
