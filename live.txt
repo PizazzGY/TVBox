@@ -6,8 +6,6 @@ CCTV2 财经,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3
 CCTV3 综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV4 中文国际,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000503/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000503
 CCTV4 中文国际,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV4 中文国际美洲,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=cctv4m
-CCTV4 中文国际欧洲,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=cctv4o
 CCTV5 体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5 体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 CCTV5+ 体育赛事,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000506/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000506
@@ -137,14 +135,6 @@ CCTV12 社会与法,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/y
 CCTV14 少儿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225732/index.m3u8
 CCTV16 奥林匹克,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
 
-CCTV1 综合,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=cctv1
-CCTV2 财经,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=cctv2
-CCTV3 综艺,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=cctv3
-CCTV4 中文国际,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=cctv4
-CCTV5+ 体育赛事,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=cctv5p
-CCTV5 体育,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=cctv5
-CCTV6 电影,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=cctv6
-
 CCTV1 综合,http://zy.otioi.cn/live/live.php?token=djqjDOf4&id=cctv1
 CCTV2 财经,http://zy.otioi.cn/live/live.php?token=djqjDOf4&id=cctv2
 CCTV3 综艺,http://zy.otioi.cn/live/live.php?token=djqjDOf4&id=cctv3
@@ -158,15 +148,6 @@ CCTV12 社会与法,http://zy.otioi.cn/live/live.php?token=djqjDOf4&id=cctv12
 CCTV13 新闻,http://zy.otioi.cn/live/live.php?token=djqjDOf4&id=cctv13
 CCTV14 少儿,http://zy.otioi.cn/live/live.php?token=djqjDOf4&id=cctv14
 CCTV15 音乐,http://zy.otioi.cn/live/live.php?token=djqjDOf4&id=cctv15
-
-CCTV7 国防军事,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=cctv7
-CCTV8 电视剧,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=cctv8
-CCTV9 纪录,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=cctv9
-CCTV10 科教,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=cctv10
-CCTV11 戏曲,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=cctv11
-CCTV12 社会与法,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=cctv12
-CCTV14 少儿,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=cctv15
-CCTV17 农业农村,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=cctv16
 
 CCTV1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1 综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
@@ -381,7 +362,6 @@ CGTN阿语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTe
 河南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 湖北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-海峡卫视,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=haixws
 黑龙江卫视,http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 黑龙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
@@ -675,21 +655,6 @@ CGTN阿语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTe
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
-
-东方卫视,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=dfws
-广东卫视,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=gdws
-广西卫视,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=gxws
-贵州卫视,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=gzws
-海南卫视,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=hainws
-海峡卫视,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=haixws
-河南卫视,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=hwnws
-湖北卫视,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=hbws
-湖南卫视,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=hnws
-吉林卫视,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=jlws
-江苏卫视,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=jsws
-江西卫视,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=jxws
-云南卫视,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=ynws
-重庆卫视,http://zy.otioi.cn/live/mgjt.php?token=djqjDOf4&id=cqws
 
 东方卫视,http://xgj.83mi.cn:7650/migu.php?token=djqjDOf4&id=dfws
 吉林卫视,http://xgj.83mi.cn:7650/migu.php?token=djqjDOf4&id=jlws
