@@ -246,15 +246,6 @@
             "filterable": 1
         },
         {
-            "key": "啾啾影视",
-            "name": "啾啾｜影视",
-            "type": 3,
-            "api": "csp_Jiohub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "立播影视",
             "name": "立播｜影视",
             "type": 3,
