@@ -1724,118 +1724,36 @@
             }
         },
         {
-            "name": "XG蓝光",
-            "url": "http://43.248.100.147:6068/bba/bbajson.php?url=",
-            "flag": [
-                "BBA"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "XM蓝光",
-            "url": "http://121.62.61.51:6888/api/?key=OGTam1Ld9HXVPAcHxD&url=",
-            "flag": [
-                "NBY"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "MX蓝光",
-            "url": "http://api.532tvx.cc/api/?key=4abcb43bbec59039e1559e94122c9747&url=",
-            "flag": [
-                "MXTV"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "TX蓝光",
-            "url": "http://43.248.100.147:9527/jx.php?url=",
-            "flag": [
-                "TX"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "MY蓝光",
-            "url": "http://zy.uiovo.com/api/?key=85907fa019f741cdf0e0a15ec078ca0a&ud=113&url=",
-            "flag": [
-                "mytv",
-                "nmys",
-                "yhdm"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "BN蓝光",
-            "url": "http://43.248.128.138:1111/home/api?type=ys&uid=3085188&key=egioqrtxzABORUW269&url=",
-            "flag": [
-                "BNNB"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "DJ专线",
-            "url": "http://jx.voooe.cn/api/?key=aa70f97f8c109a3c6937ea27a98da6e0&url=",
-            "flag": [
-                "duanju"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "XGJ官解",
-            "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/60.php?url=",
-            "flag": [
-                "youku",
-                "qq",
-                "qiyi",
-                "bilibili",
-                "mgtv",
-                "sohu",
-                "letv",
-                "xigua"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "XGJ聚合",
+            "name": "臻享",
+            "type": "1",
             "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url=",
-            "flag": [
-                "youku",
-                "qq",
-                "qiyi",
-                "bilibili",
-                "mgtv",
-                "pptv",
-                "xigua",
-                "NBY",
-                "ETH-",
-                "BBA",
-                "TX",
-                "MXTV",
-                "mytv",
-                "nmys",
-                "yhdm",
-                "BNNB",
-                "duanju"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
+            "ext": {
+                "flag": [
+                    "youku",
+                    "qq",
+                    "qiyi",
+                    "bilibili",
+                    "mgtv",
+                    "pptv",
+                    "xigua",
+                    "NBY",
+                    "ETH-",
+                    "BBA",
+                    "TX",
+                    "MXTV",
+                    "mytv",
+                    "nmys",
+                    "yhdm",
+                    "BNNB",
+                    "letu",
+                    "DJWB",
+                    "DJWX",
+                    "DJWT",
+                    "duanju"
+                ],
+                "header": {
+                    "User-Agent": "Dalvik/2.1.0"
+                }
             }
         },
         {
