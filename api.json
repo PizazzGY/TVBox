@@ -191,15 +191,6 @@
             "filterable": 1
         },
         {
-            "key": "笙歌影视",
-            "name": "笙歌｜APP",
-            "type": 3,
-            "api": "csp_AppYY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "采集之王",
             "name": "采集｜合集",
             "type": 3,
@@ -342,15 +333,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "看看影视",
-            "name": "看看｜影视",
-            "type": 3,
-            "api": "csp_WebIV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
         },
         {
             "key": "视频库",
