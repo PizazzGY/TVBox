@@ -1757,6 +1757,19 @@
             }
         },
         {
+            "name": "BBA专线",
+            "type": "1",
+            "url": "http://43.248.100.147:6068/bba/bbajson.php?url=",
+            "ext": {
+                "flag": [
+                    "BBA"
+                ],
+                "header": {
+                    "User-Agent": "Dalvik/2.1.0"
+                }
+            }
+        },
+        {
             "name": "线路1",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
