@@ -1,5 +1,5 @@
 {
-    "spider": "https://183-255-110-72.pd1.cjjd19.com:30443/download-cdn.cjjd19.com/123-483/a81afc9c/1815531670-0/a81afc9c6a39cbd3de57dd8fca9031e3/c-m52?v=5&t=1730084901&s=17300849017791d32f5fb59814abe323d1e7b292f4&r=0YZQF7&bzc=2&bzs=313831343238393034343a32313836393633313a333133333833393a31383134323839303434&filename=spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+    "spider": "./spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
