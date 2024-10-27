@@ -1018,6 +1018,13 @@
             "ext": "./JS/小虎斑弹幕.js"
         },
         {
+            "key": "素白白弹幕",
+            "name": "素白白｜弹幕",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/素白白弹幕.js"
+        },
+        {
             "key": "三六零弹幕",
             "name": "三六零｜弹幕",
             "type": 3,
@@ -1054,18 +1061,6 @@
             }
         },
         {
-            "key": "JOJO弹幕",
-            "name": "JOJO｜弹幕",
-            "type": 3,
-            "api": "csp_Jiohub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
             "key": "荐片弹幕",
             "name": "荐片｜弹幕",
             "type": 3,
@@ -1090,6 +1085,13 @@
                 "site": "https://www.yjys05.com",
                 "danmu": true
             }
+        },
+        {
+            "key": "四维空间弹幕",
+            "name": "四维空间｜4K弹幕",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/四维空间弹幕.js"
         },
         {
             "key": "玩偶弹幕",
