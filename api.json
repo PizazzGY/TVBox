@@ -178,17 +178,85 @@
             "api": "csp_AppZJ",
             "searchable": 1,
             "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "洽洽影视",
+            "name": "洽洽｜APP",
+            "type": 3,
+            "api": "csp_AppGZ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "兄弟影视",
+            "name": "兄弟｜APP",
+            "type": 3,
+            "api": "csp_AppGetApp",
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://z.kzjtv.com/"
+            "ext": "KhYl01Kekjo9vLs09V+rOtv/6QaOFwdQp2ne4h22GLkT99eCXh9SJ/lGZNM8zgk1OnFWx0zBQ9Y/9mAjQB67LaEp7Yj7w9SYBEjFbdPjKy3EHp7uBIHXVI7/dZ4r/dJapz6ihlWwqY2KlGuarL/+9suxO4ZJFOg1OxN+dTrTbi2Muff1CmBkNfrY+s4eQhuLBs4vVhslYH/yyPXePZ1AgNT8ZuBCcfE2LpJ19OKKPIvs+pt4Z/yzVA=="
+        },
+        {
+            "key": "追梦影视",
+            "name": "追梦｜APP",
+            "type": 3,
+            "api": "csp_App",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "KhYJ00ye42lrgMpNiF+rOvz59ga1R1FQv2eU9xm2Iu1VrOOAQhMKd/5Ef8cogkk0Y3RJ20zdTsh6uytEQhi5H+x3q9ykk86fAlKxZsD4JSOVC5vqBIHXLUdbmRnBIXWxcZBIXFtvDsnRlRrdhe15op6nVQPj3jTftN2v9+IDRS2auZS8W1hoOL2jvcoiUEzLToN7FV14amT6puaPWMkj34WXPOALOvIkDM57pLfeccPg9oZFJOvob2S7NE55hsAbY0y7l63JB0ukoDmLq9q4YRSh/M6i0i8XMVk8bLFggs+R73Ld+p5bipdnmmrRg3qMu5dVCFuyfllyKl0ZJddNw4AFQExqghU1xo0RpCm1FgL+FmBLMdYCxM+fNYaF6blwRnzcfPct0XtmXoB9"
+        },
+        {
+            "key": "酷酷影视",
+            "name": "酷酷｜APP",
+            "type": 3,
+            "api": "csp_App",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "KhYJ00ye42lr+7UsoxLsfea0p0H5SUkT7Tv/+ACyPvFQ+ozQDB0SI/NCeN59w0RiNzIKjBHQR9I/4GBIAlWmFKcvyM+yqtiPTwaxfs74YG+PHrb7VfKDLVFb0luKJl2gZ5pIVjIwVQNUCt5TAXutZxNBtlKGin+L/4vCsOIjR2r16dqyQwlpOKySq4NGGkKeA48tTxR+emOxn/qGPt5xjInFeLJXMvYxdp47pOKOA4Oj4LJnJ+ezEzScDoT2IASN0Rvl2ZneGEGkqlDU8NquYUP/svq1zScEYCpobKdg0ILB7Hba+5cMwtlnjGiHyCaM9dx+z+cVzD9cSTo/aL5gSoAPT4QzkFxezSARli9nVDmnS0MrY/NhiexS8AE+1et9"
+        },
+        {
+            "key": "忍者影视",
+            "name": "忍者｜APP",
+            "type": 3,
+            "api": "csp_AppRZ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "凡人影视",
+            "name": "凡人｜APP",
+            "type": 3,
+            "api": "csp_AppFr",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "大米星球",
             "name": "大米｜APP",
             "type": 3,
-            "api": "csp_AppDaMi",
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/APPV2.js?type=url&params=https://dmz8k4.wiki"
+        },
+        {
+            "key": "西瓜视频",
+            "name": "西瓜｜视频",
+            "type": 3,
+            "api": "csp_AmuXiguaV2",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
         },
         {
             "key": "采集之王",
@@ -330,6 +398,51 @@
             "name": "骚火｜影视",
             "type": 3,
             "api": "csp_SaoHuo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "金牌影视",
+            "name": "金牌｜影视",
+            "type": 3,
+            "api": "csp_WebJP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "哔嘀影视",
+            "name": "哔嘀｜影视",
+            "type": 3,
+            "api": "csp_WebYJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "铁剧影视",
+            "name": "铁剧｜影视",
+            "type": 3,
+            "api": "csp_WebBr",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "真心影视",
+            "name": "真心｜影视",
+            "type": 3,
+            "api": "csp_WebGZ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "耐看影视",
+            "name": "耐看｜影视",
+            "type": 3,
+            "api": "csp_WebNK",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -510,13 +623,13 @@
             "ext": "./XYQHiker/奇趣影视.json"
         },
         {
-            "key": "蚂蚁资源",
-            "name": "蚂蚁｜采集",
-            "type": 1,
-            "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
+            "key": "1905",
+            "name": "1905｜视频",
+            "type": 3,
+            "api": "csp_Web1905",
             "searchable": 1,
-            "changeable": 1,
-            "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url="
+            "quickSearch": 0,
+            "filterable": 0
         },
         {
             "key": "红牛资源",
