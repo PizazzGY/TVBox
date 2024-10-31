@@ -4,9 +4,7 @@
 
 https://www.123pan.com/s/sPNbVv-67SXv
 
-# TVBox自用资源
-
-在线源订阅地址：
+# 在线源订阅地址：
 
 https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
 
