@@ -1,4 +1,22 @@
 央视频道,#genre#
+CCTV1 综合,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000501
+CCTV2 财经,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000502
+CCTV3 综艺,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000003
+CCTV4 中文国际,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000503
+CCTV5 体育,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000005
+CCTV6 电影,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000006
+CCTV7 国防军事,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000504
+CCTV8 电视剧,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000008
+CCTV9 纪录,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000505
+CCTV10 科教,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000506
+CCTV11 戏曲,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000508
+CCTV12 社会与法,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000509
+CCTV13 新闻,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000510
+CCTV14 少儿,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000511
+CCTV15 音乐,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000512
+CCTV16 奥林匹克,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000016
+CCTV17 农业农村,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000513
+
 CCTV1 综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
 CCTV1 综合,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
 CCTV1 综合,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -69,23 +87,6 @@ CCTV16 奥林匹克,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/P
 CCTV17 农业农村,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000513
 CCTV17 农业农村,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV17 农业农村,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
-
-CCTV1 综合,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000501
-CCTV2 财经,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000502
-CCTV3 综艺,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000003
-CCTV4 中文国际,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000503
-CCTV5 体育,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000005
-CCTV6 电影,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000006
-CCTV7 国防军事,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000504
-CCTV8 电视剧,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000008
-CCTV9 纪录,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000505
-CCTV10 科教,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000506
-CCTV11 戏曲,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000508
-CCTV12 社会与法,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000509
-CCTV14 少儿,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000511
-CCTV15 音乐,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000512
-CCTV16 奥林匹克,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000016
-CCTV17 农业农村,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000513
 
 CCTV1 综合,http://kxrj.site:998/123/mg.php?id=cctv1
 CCTV2 财经,http://kxrj.site:998/123/mg.php?id=cctv2
