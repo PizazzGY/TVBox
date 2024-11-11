@@ -1086,13 +1086,6 @@
             "ext": "./JS/优酷弹幕.js"
         },
         {
-            "key": "完美弹幕",
-            "name": "完美｜弹幕",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/完美弹幕.js"
-        },
-        {
             "key": "悠悠弹幕",
             "name": "悠悠｜弹幕",
             "type": 3,
@@ -1119,13 +1112,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/小虎斑弹幕.js"
-        },
-        {
-            "key": "素白白弹幕",
-            "name": "素白白｜弹幕",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/素白白弹幕.js"
         },
         {
             "key": "三六零弹幕",
