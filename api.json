@@ -41,10 +41,7 @@
             "type": 3,
             "api": "csp_Duanj",
             "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
+            "changeable": 0
             }
         },
         {
@@ -53,10 +50,7 @@
             "type": 3,
             "api": "csp_Duanju",
             "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
+            "changeable": 0
             }
         },
         {
