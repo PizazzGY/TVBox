@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",
+    "spider": "./spider.jar;md5;e0752459e29733473c62bbdf280b3bb1",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -2004,23 +2004,23 @@
     ],
     "lives": [
         {
-            "name": "直播1",
+            "name": "直播",
             "type": 0,
-            "url": "./live.txt",
-            "playerType": 1,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+            "url": "http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Gather",
+            "playerType": 2
         },
         {
-            "name": "直播2",
+            "name": "范明明",
             "type": 0,
             "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-            "playerType": 1
+            "playerType": 2
         },
         {
-            "name": "直播3",
-            "type": 0,
-            "url": "https://tv.iill.top/m3u/Gather",
-            "playerType": 1
+            "name": "肥羊",
+            "type": 3,
+            "api": "csp_Ysptp",
+            "ext": "./live.txt",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
         }
     ],
     "flags": [
