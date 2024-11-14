@@ -42,7 +42,6 @@
             "api": "csp_Duanj",
             "searchable": 1,
             "changeable": 0
-            }
         },
         {
             "key": "在线短剧",
@@ -51,7 +50,6 @@
             "api": "csp_Duanju",
             "searchable": 1,
             "changeable": 0
-            }
         },
         {
             "key": "星芽短剧",
