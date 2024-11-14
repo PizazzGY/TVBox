@@ -214,7 +214,7 @@
             "name": "大米｜APP",
             "type": 3,
             "api": "./JS/drpy2.min.js",
-            "ext": "./JS/APPV2.js?type=url&params=https://dmz8k4.wiki"
+            "ext": "./JS/APPV2.js?type=url&params=https://damifan.wiki"
         },
         {
             "key": "西瓜视频",
