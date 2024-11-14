@@ -566,23 +566,6 @@
             "ext": "./JS/碟调影视.js"
         },
         {
-            "key": "畅梦影视",
-            "name": "畅梦｜影视",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/畅梦影视.js"
-        },
-        {
-            "key": "子子影视",
-            "name": "子子｜影视",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/子子影视.json"
-        },
-        {
             "key": "奇趣影视",
             "name": "奇趣｜影视",
             "type": 3,
