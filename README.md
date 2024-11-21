@@ -1,3 +1,5 @@
+# QQ群960349207
+
 # 软件及资源
 
 https://www.123pan.com/s/sPNbVv-67SXv
