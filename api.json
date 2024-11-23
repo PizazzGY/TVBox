@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "豆瓣｜首页",
+            "name": "暂停｜维护",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
