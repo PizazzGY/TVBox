@@ -11,14 +11,14 @@
         },
         {
             "key": "预告",
-            "name": "Q群｜894772083",
+            "name": "新片｜预告",
             "type": 3,
             "api": "csp_YGP",
             "searchable": 0
         },
         {
             "key": "本地",
-            "name": "QQ频道｜pd08504583",
+            "name": "本地｜视频",
             "type": 3,
             "api": "csp_LocalFile"
         },
